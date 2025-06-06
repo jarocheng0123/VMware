@@ -1,58 +1,27 @@
-# 开机设置 BIOS
-
-F12 F8 F6 ......
-
-联想 每个按键作用
-
-
-关键词“Virtual”、“Virtualization”、“VT-X”、“Secure Virtual Machine mode（SVM）”、“虚拟化技术“
-
-
-
-关闭 > Hyper-v （必须）
-关闭 >虚拟机平台 （可能）
-
-解释 Hyper  虚拟机平台   Windows沙盒  适用于Linux的Windows子系统 Windows虚拟机监控程序平台 功能与 VMware 模拟器 drcker 等关系
-
-# VMware 下载
+# VMware 操作指南
 
 
 
 
+[使用 VMware工作站专业版](https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workstation-pro/17-0/using-vmware-workstation-pro.html)
 
+## VMware 下载
 
-VMware使用指南
-
-https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true
-
-
-账号
+登录 [Broadcom 支持门户 ](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)
 
 ```bash
 1135604098@qq.com
 ```
-密码
 ```bash
 Password@123
 ```
 
+[免费下载中心](https://support.broadcom.com/group/ecx/free-downloads)
+
+[VMware 工作站专业版](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)
 
 
-
-下载链接
-
-
-https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.3-24583834.exe&oid=38564222&id=YVutNGo5iaK2o_mVUe2KLQs8zc0L_qXszUQovZiajZYKYPHxmpVbPocYLHtM&verify=1748620222-p%2BtRCS4WnHRJrDLqxe9dgEcaj3KYDLRXDymM1NK4G0A%3D
-
-
-
-# VMware 设置
-
-
-
-
-
-
+## VMware 配置介绍
 
 
 备注非特定功能，不要修改任何参数，例如USB会导致mac无法连接键盘鼠标
@@ -72,7 +41,28 @@ VMware  Tools 自动更新
 
 镜像下载链接 Linux Windows mac 安卓
 
+常见故障排除
+问题	可能原因	解决方案
+虚拟机无法联网	NAT 服务未启动	重启 VMware 服务：net start VMware NAT Service
+鼠标键盘无响应	USB 兼容性问题	在.vmx添加：usb.generic.allowHID = "TRUE"
+虚拟机黑屏	显卡驱动冲突	禁用 3D 加速或更新 VMware Tools 至最新版
+磁盘空间不足	虚拟磁盘膨胀	使用vmware-vdiskmanager -k "磁盘.vmdk"进行磁盘压缩
 
+
+
+
+处理器	2-4 核（偶数）	总数不超过物理 CPU 核心数，如 8 核主机可设 4×2
+内存	2GB 起（根据系统调整）	macOS 至少 4GB，Linux 桌面版 2GB，服务器版 1GB
+硬盘	20GB+（推荐 SSD）	选择 “将虚拟磁盘存储为单个文件” 提升性能
+显卡	启用 3D 加速	勾选 “加速 3D 图形”，显存设为 512MB+（用于图形设计）
+
+NAT	共享主机网络（默认）	DHCP 自动分配	虚拟机可访问互联网，主机可访问虚拟机
+桥接	模拟物理网卡	与主机同网段（需手动配置）	虚拟机与局域网设备直接通信
+仅主机	隔离测试环境	仅主机可访问虚拟机	禁止虚拟机访问外网
+
+示例：桥接模式配置：
+虚拟机设置 > 网络适配器 > 桥接模式，选择主机物理网卡（如 “以太网”）。
+客户机系统中手动设置 IP 为与主机同网段（如主机 IP 192.168.1.100，虚拟机设 192.168.1.101）。
 
 
 # 镜像
@@ -110,9 +100,22 @@ Windows 物理机器
 
 
 
+PE 环境备份：
+制作优启通 U 盘，启动实体机进入 PE。
+使用 EIX 系统安装 工具，备份 C 盘为 install.wim（保存到非系统盘）。
+镜像修改：
+用 UltraISO 打开 Windows 官方 ISO，替换 sources/install.wim 为备份文件。
+虚拟机部署：
+新建虚拟机，光驱加载优启通 ISO，启动进入 PE。
+分区后加载修改后的 Windows ISO，完成系统恢复。
+
+
+
+
 # 镜像
 Windows 11
 
+关闭网络连接
 在联网界面按下快捷键 “Shift+F10”，会弹出一个小黑框（命令提示符）。
 在小黑框里面输入：oobe\bypassnro，然后按 “Enter”（回车键），电脑会进入重启程序。
 
@@ -124,6 +127,12 @@ Windows 11
 
 
 # 镜像
+
+快速美化系统，桌面布局，自动登陆
+update
+upgrade
+deb安装包管理
+桌面美化工具、桌面字体大小管理
 
 Linux操作指令
 打开终端： Ctrl+Alt+T 
@@ -166,6 +175,10 @@ vmtool安装方法
 
 
 # 镜像
+
+
+无法下载APP
+
 破解macos限制
 
 虚拟化引擎，虚拟化Intel VT-x/EPT或AMD-V/RVI(V)
@@ -241,6 +254,15 @@ mouse.vusb.enable = "TRUE"
 镜像darwin.iso 地址https://softwareupdate.vmware.com/cds/vmw-desktop/fusion/
 
 
+
+
+
+常见问题：
+黑屏 / 卡进度条：减少 CPU 核心数至 2 核，关闭 3D 加速。
+VMware Tools 安装失败：手动挂载 darwin.iso，运行 ./VMwareTools-*.pl 脚本。
+
+
+
 # 镜像
 安卓
 ndroid-x86 4.4安装到VMware的教程
@@ -254,8 +276,66 @@ https://www.0xaa55.com/thread-1730-1-1.html
 # 参考链接
 参考链接
 
-https://www.0xaa55.com/thread-1730-1-1.html
-https://blog.csdn.net/raspi_fans/article/details/122908420
-https://maplerain.cc/index.php/archives/53.html
-https://blog.csdn.net/jiunian_2761/article/details/103950990
 
+
+
+
+#
+
+
+
+
+ - []()
+ - [Android-x86 4.4安装到VMware的教程](https://www.0xaa55.com/thread-1730-1-1.html)
+ - [macOS虚拟机安装全过程（VMware）](https://blog.csdn.net/raspi_fans/article/details/122908420)
+ - [为你的VMware 15.5 虚拟机MacOS系统手动安装VMware Tools](https://blog.csdn.net/jiunian_2761/article/details/103950990)
+ - []()
+ - []()
+ - []()
+ - []()
+
+
+
+
+# 下载
+ - [android](https://www.android-x86.org/download)
+ - [Windows](https://msdn.itellyou.cn/)
+ - [Ubuntu](https://releases.ubuntu.com/)
+ - [macos](https://imacos.top/)
+
+
+
+
+
+
+
+发行版文件
+
+unlock
+Tools
+
+
+UEFI 引导文件制作 优PE
+linux VM Tools
+macOS VM Tools
+macOS unlock   release-python-embedded.zip
+
+
+
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/jarocheng0123/VMware/refs/heads/main/png/QQ.png" width="150">
+
+## VMware 下载
+## VMware 配置
+## VMware 错误
+## Android
+## Windows
+## MacOS
+## Ubuntu
+## 在VMware使用BIOS
+## 物理机⇋虚拟机
+## 下载链接以及发行文件
