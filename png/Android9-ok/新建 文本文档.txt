@@ -1,0 +1,16 @@
+<    /mnt/grub/menu.lst >
+
+
+
+在写入代码键盘 I 时，左下角出现 I 为写入模式
+< I  /mnt/grub/menu.lst >
+
+
+
+当esc时，I 消失
+<    /mnt/grub/menu.lst >
+
+
+
+
+输入：wq回车 有冒号

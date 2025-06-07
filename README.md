@@ -14,7 +14,7 @@ Password@123
 ## Windows 物理机 ➡️ VMware 虚拟机
 
 ### 教程
-
+https://www.yrxitong.com/h-nd-764.html
 
 https://www.diskgenius.cn/help/virtualize-current-system-to-vmware.php
 
@@ -30,6 +30,9 @@ https://www.diskgenius.cn/help/virtualize-current-system-to-vmware.php
 打开EIX系统安装
 分区备份>目标分区 C 盘 
 新建映像>install.wim【保存到D盘】
+
+
+
 
 
 下载UitraISO ：https://www.yrxitong.com/h-nd-377.html

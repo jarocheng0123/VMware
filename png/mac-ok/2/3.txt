@@ -1,0 +1,5 @@
+# 在末尾加入的内容
+board-id = "Mac-7BA5B2D9E42DDD94"
+hw.model = "iMacPro1,1"
+uuid.action = "keep"
+smc.version = "0"

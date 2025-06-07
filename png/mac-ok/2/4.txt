@@ -1,0 +1,10 @@
+# 查找并修改以下两行内容
+board-id.reflectHost = "FALSE"
+ethernet0.virtualDev = "vmxnet3"
+
+# 在末尾加入的内容
+board-id = "Mac-AA95B1DDAB278B95"
+hw.model.reflectHost = "FALSE"
+hw.model = "MacBookPro19,1"
+serialNumber.reflectHost = "FALSE"
+serialNumber = "C01231237890"
