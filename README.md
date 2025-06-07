@@ -11,6 +11,15 @@
 Password@123
 ```
 
+
+
+主要负责下载安装 介绍NTA   VMware Tools
+
+
+解决读取本地文件夹的问题，不需要请求GitHub通过路径解决图片加载问题
+
+
+
 ## Windows 物理机 ➡️ VMware 虚拟机
 
 ### 教程
