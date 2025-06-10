@@ -15,6 +15,19 @@ Password@123
 
 解决读取本地文件夹的问题，不需要请求GitHub通过路径解决图片加载问题
 
+![image.png](png/Android4-ok/1/QQ截图20250607125548.png)
+{: width="400"}
+
+
+
+![image.png](png/Android4-ok/1/QQ截图20250607125548.png)
+{: width="50"}
+
+![image.png](png/Android4-ok/1/QQ截图20250607125548.png,width="150")
+![image.png]("png/Android4-ok/1/QQ截图20250607125548.png",width="150")
+
+
+
 # 下载
 
 发行版文件
@@ -64,3 +77,31 @@ NAT	共享主机网络（默认）	DHCP 自动分配	虚拟机可访问互联网
 示例：桥接模式配置：
 虚拟机设置 > 网络适配器 > 桥接模式，选择主机物理网卡（如 “以太网”）。
 客户机系统中手动设置 IP 为与主机同网段（如主机 IP 192.168.1.100，虚拟机设 192.168.1.101）。
+
+
+
+版本
+miui版本
+android 9 纯净版
+
+
+Ubuntu 24 LTS
+Windows 10 专业工作站
+Windows 11 专业工作站
+
+
+macOS 12.6 AMD Ryzen 
+
+小新Pro 16 2021(R7-5800H/16GB/1TB/GTX1650) 
+
+macOS 15.5 Intel 
+
+
+
+
+
+Windows 11 workpro 20250604翻墙版
+
+Ubuntu 24 LTS 20250528翻墙版
+
+Windows 物理版

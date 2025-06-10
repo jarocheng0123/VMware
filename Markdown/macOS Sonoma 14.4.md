@@ -1,4 +1,27 @@
 # 镜像
+  
+
+小新Pro 16 2021 支持，阿里 12.6
+
+https://heipg.cn/macos/macos-monterey-12-6-21g115-iso.html
+
+
+ - [macOS Monterey 12.6(21G115)正式版 虚拟机ISO格式【14.61GB】](https://www.aliyundrive.com/s/y2HEjaHUL9K)
+
+
+
+
+
+
+
+
+
+
+
+ think book 支持 ，阿里 26.0
+
+
+ - [macOS Sequoia 15.5(24F74) 正式版 虚拟机ISO格式【17.78GB】](https://pan.baidu.com/s/1TuOiURr7w_25nYVLfu0AKw?pwd=6wer)
 
 
 无法下载APP
