@@ -14,18 +14,26 @@ Password@123
 主要负责下载安装 介绍NTA   VMware Tools
 
 解决读取本地文件夹的问题，不需要请求GitHub通过路径解决图片加载问题
-
+<!-- 
 <img src="png/Android4-ok/1/QQ截图20250607125548.png" width="500">
-<img src="png/Android4-ok/1/QQ截图20250607125548.png" width="400">
-<img src="png/Android4-ok/1/QQ截图20250607125548.png" width="300">
+<img src="png/Android4-ok/1/QQ截图20250607125548.png" width="400"> -->
+
+<img src="png/Android4-ok/1/QQ截图20250607125548.png" width="350">
+
+
+
+<!-- <img src="png/Android4-ok/1/QQ截图20250607125548.png" width="300">
 <img src="png/Android4-ok/1/QQ截图20250607125548.png" width="200">
 <img src="png/Android4-ok/1/QQ截图20250607125548.png" width="100">
 <img src="png/Android4-ok/1/QQ截图20250607125548.png" width="100%">
 <img src="png/Android4-ok/1/QQ截图20250607125548.png" width="80%">
-<img src="png/Android4-ok/1/QQ截图20250607125548.png" width="60%">
-<img src="png/Android4-ok/1/QQ截图20250607125548.png" width="40%">
+<img src="png/Android4-ok/1/QQ截图20250607125548.png" width="60%"> -->
+
+<img src="png/Android4-ok/1/QQ截图20250607125548.png" width="50%">
+
+<!-- <img src="png/Android4-ok/1/QQ截图20250607125548.png" width="40%">
 <img src="png/Android4-ok/1/QQ截图20250607125548.png" width="20%">
-<img src="png/Android4-ok/1/QQ截图20250607125548.png" width="10%">
+<img src="png/Android4-ok/1/QQ截图20250607125548.png" width="10%"> -->
 
 
 
