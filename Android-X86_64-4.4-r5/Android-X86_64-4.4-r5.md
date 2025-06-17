@@ -1,12 +1,18 @@
- - [Android-x86 4.4安装到VMware的教程](https://www.0xaa55.com/thread-1730-1-1.html)
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+## 目录
+
+- [自述文件](../README.md)
+- [Android-X86_64-4.4-r5](../Android-X86_64-4.4-r5/Android-X86_64-4.4-r5.md)
+- [Android-X86_64-9.0-r2](../Android-X86_64-9.0-r2/Android-X86_64-9.0-r2.md)
+- [macOS Sequoia 15.5(24F74)](../macOS%20Sequoia%2015.5(24F74)/macOS%20Sequoia%2015.5(24F74).md)
+- [Ubuntu Desktop 24.04.2 LTS](../Ubuntu%20Desktop%2024.04.2%20LTS/Ubuntu%20Desktop%2024.04.2%20LTS.md)
+- [Windows 10 专业工作站版](../Windows%2010%20专业工作站版/Windows%2010%20专业工作站版.md)
+- [Windows 11 专业工作站版](../Windows%2011%20专业工作站版/Windows%2011%20专业工作站版.md)
+- [Windows 物理机转 VMware 虚拟机](../Windows%20物理机转%20VMware%20虚拟机/Windows%20物理机转%20VMware%20虚拟机.md)
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 
-# 镜像
-安卓
-ndroid-x86 4.4安装到VMware的教程
-
-https://www.0xaa55.com/thread-1730-1-1.html
- - [android](https://www.android-x86.org/download)
 
 
 <img src="png/QQ截图20250607125548.png" width="50%">
@@ -49,4 +55,13 @@ https://www.0xaa55.com/thread-1730-1-1.html
 <img src="png/QQ截图20250607135724.png" width="50%">
 <img src="png/QQ截图20250607135832.png" width="50%">
 
+
+
+## 参考
+
+- [下载 android-x86 文件](https://sourceforge.net/projects/android-x86/files/)
+
+<a href="https://www.0xaa55.com/thread-1730-1-1.html">
+    <img src="png/【装系统】Android-x86 4.4安装到VMware的教程.png"width="85%">
+</a>
 

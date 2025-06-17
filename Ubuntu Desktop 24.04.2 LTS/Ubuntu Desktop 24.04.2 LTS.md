@@ -1,3 +1,19 @@
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+## 目录
+
+- [自述文件](../README.md)
+- [Android-X86_64-4.4-r5](../Android-X86_64-4.4-r5/Android-X86_64-4.4-r5.md)
+- [Android-X86_64-9.0-r2](../Android-X86_64-9.0-r2/Android-X86_64-9.0-r2.md)
+- [macOS Sequoia 15.5(24F74)](../macOS%20Sequoia%2015.5(24F74)/macOS%20Sequoia%2015.5(24F74).md)
+- [Ubuntu Desktop 24.04.2 LTS](../Ubuntu%20Desktop%2024.04.2%20LTS/Ubuntu%20Desktop%2024.04.2%20LTS.md)
+- [Windows 10 专业工作站版](../Windows%2010%20专业工作站版/Windows%2010%20专业工作站版.md)
+- [Windows 11 专业工作站版](../Windows%2011%20专业工作站版/Windows%2011%20专业工作站版.md)
+- [Windows 物理机转 VMware 虚拟机](../Windows%20物理机转%20VMware%20虚拟机/Windows%20物理机转%20VMware%20虚拟机.md)
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+
 # 镜像
 
 快速美化系统，桌面布局，自动登陆
@@ -95,3 +111,38 @@ vmtool安装方法
 <img src="png/QQ截图20250616113601.png" width="50%">
 <img src="png/QQ截图20250616124728.png" width="50%">
 <img src="png/QQ截图20250616124758.png" width="50%">
+
+##  下载
+
+- [下载 Ubuntu 桌面](https://ubuntu.com/download/desktop)
+
+
+
+## 系统优化
+
+sudo apt update
+sudo apt upgrade 
+
+sudo apt install -y open-vm-tools open-vm-tools-desktop
+
+
+
+
+
+sudo apt install -y gdebi synaptic gparted
+
+sudo apt install -y gnome-tweaks gnome-shell-extensions gnome-shell-extension-manager
+
+
+
+https://addons.mozilla.org/zh-CN/firefox/addon/gnome-shell-integration/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+
+https://extensions.gnome.org/extension/19/user-themes/
+
+
+
+## 补充
+
+- [提升Ubuntu性能的15个最佳技巧](https://cn.linux-console.net/?p=36276)
+- [每个初学者都应该知道的15个基础Linux问题](https://cn.linux-console.net/?p=36280)
+  

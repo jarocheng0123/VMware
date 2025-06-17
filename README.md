@@ -1,12 +1,40 @@
-仅做系统安装和更新，不进行任何优化和安装，在系统里面提供VPN 微信 QQ 等软件安装包，确保离线，网络限制/无需在下载安装
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+## 目录
+
+- [自述文件](/README.md)
+- [Android-X86_64-4.4-r5](/Android-X86_64-4.4-r5/Android-X86_64-4.4-r5.md)
+- [Android-X86_64-9.0-r2](/Android-X86_64-9.0-r2/Android-X86_64-9.0-r2.md)
+- [macOS Sequoia 15.5(24F74)](/macOS%20Sequoia%2015.5(24F74)/macOS%20Sequoia%2015.5(24F74).md)
+- [Ubuntu Desktop 24.04.2 LTS](/Ubuntu%20Desktop%2024.04.2%20LTS/Ubuntu%20Desktop%2024.04.2%20LTS.md)
+- [Windows 10 专业工作站版](/Windows%2010%20专业工作站版/Windows%2010%20专业工作站版.md)
+- [Windows 11 专业工作站版](/Windows%2011%20专业工作站版/Windows%2011%20专业工作站版.md)
+- [Windows 物理机转 VMware 虚拟机](/Windows%20物理机转%20VMware%20虚拟机/Windows%20物理机转%20VMware%20虚拟机.md)
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 
 
-# [VMware 操作指南](https://techdocs.broadcom.com/cn/zh-cn/vmware-cis/desktop-hypervisors/workstation-pro/17-0/using-vmware-workstation-pro.html)
 
-## [VMware 下载](https://support.broadcom.com/group/ecx/free-downloads)
 
-[VMware 工作站专业版](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)
+
+
+- [软碟通_UltraISO 9.7.6.3860](https://www.yrxitong.com/h-nd-377.html)
+
+
+
+
+- [About VMware macOS utilities](https://github.com/DrDonk/unlocker/releases)
+
+- [免费下载](https://support.broadcom.com/group/ecx/free-downloads)
+
+
+- [《使用 VMware Workstation Pro》](https://techdocs.broadcom.com/cn/zh-cn/vmware-cis/desktop-hypervisors/workstation-pro/17-0/using-vmware-workstation-pro.html)
+
+
+- [VMware 工作站专业版](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)
+
+
+- [VMware Tools](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Tools&freeDownloads=true)
 
 ```bash
 1135604098@qq.com
@@ -20,8 +48,18 @@ Password@123
 解决读取本地文件夹的问题，不需要请求GitHub通过路径解决图片加载问题
 
 
-<img src="png/Android4-ok/1/QQ截图20250607125548.png" width="50%">
 
+仅做系统安装和更新，不进行任何优化和安装，在系统里面提供VPN 微信 QQ 等软件安装包，确保离线，网络限制/无需在下载安装
+
+
+下载内容
+
+
+macOSulok
+macos.ios
+关闭安全中心。。。
+激活版本
+https://www.sordum.org/
 
 
 
@@ -77,28 +115,4 @@ NAT	共享主机网络（默认）	DHCP 自动分配	虚拟机可访问互联网
 
 
 
-版本
-miui版本
-android 9 纯净版
 
-
-Ubuntu 24 LTS
-Windows 10 专业工作站
-Windows 11 专业工作站
-
-
-macOS 12.6 AMD Ryzen 
-
-小新Pro 16 2021(R7-5800H/16GB/1TB/GTX1650) 
-
-macOS 15.5 Intel 
-
-
-
-
-
-Windows 11 workpro 20250604翻墙版
-
-Ubuntu 24 LTS 20250528翻墙版
-
-Windows 物理版
