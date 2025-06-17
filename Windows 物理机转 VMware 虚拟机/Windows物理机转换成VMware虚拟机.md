@@ -45,3 +45,31 @@ PE 环境备份：
 虚拟机部署：
 新建虚拟机，光驱加载优启通 ISO，启动进入 PE。
 分区后加载修改后的 Windows ISO，完成系统恢复。
+
+
+<img src="png/QQ截图20250606180226.png" width="50%">
+<img src="png/QQ截图20250606180418.png" width="50%">
+<img src="png/QQ截图20250606180440.png" width="50%">
+<img src="png/QQ截图20250606180451.png" width="50%">
+<img src="png/QQ截图20250606180946.png" width="50%">
+<img src="png/QQ截图20250606181025.png" width="50%">
+<img src="png/QQ截图20250606182559.png" width="50%">
+<img src="png/QQ截图20250606182622.png" width="50%">
+<img src="png/QQ截图20250607101151.png" width="50%">
+<img src="png/QQ截图20250607101155.png" width="50%">
+<img src="png/QQ截图20250607101254.png" width="50%">
+<img src="png/QQ截图20250607101521.png" width="50%">
+<img src="png/QQ截图20250607101545.png" width="50%">
+<img src="png/QQ截图20250607101601.png" width="50%">
+<img src="png/QQ截图20250607101619.png" width="50%">
+<img src="png/QQ截图20250607101724.png" width="50%">
+<img src="png/QQ截图20250607101746.png" width="50%">
+<img src="png/QQ截图20250607101829.png" width="50%">
+<img src="png/QQ截图20250607102636.png" width="50%">
+<img src="png/QQ截图20250607102740.png" width="50%">
+<img src="png/QQ截图20250607103149.png" width="50%">
+<img src="png/QQ截图20250607103231.png" width="50%">
+<img src="png/QQ截图20250607103322.png" width="50%">
+<img src="png/QQ截图20250607103842.png" width="50%">
+<img src="png/QQ截图20250607103913.png" width="50%">
+<img src="png/QQ截图20250607103926.png" width="50%">
