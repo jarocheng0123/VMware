@@ -88,53 +88,296 @@ VMware Tools 安装失败：手动挂载 darwin.iso，运行 ./VMwareTools-*.pl 
 
 
 <img src="png/QQ截图20250606163608.png" width="50%">
+
+
+
+
+
+####  
+
+
 <img src="png/QQ截图20250606163641.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250606163709.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250606163713.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250606163717.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250606163721.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250606163729.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250606163735.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607105704.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607110613.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607110745.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607110807.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607110845.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607110910.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607110938.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607110955.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607111033.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607111039.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607112234.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607113904.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607113919.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607113932.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607113942.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607113954.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607114003.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607114012.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607114023.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607114032.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607114105.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607114718.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607114727.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607114906.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607114924.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607114934.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607114945.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607115039.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607115637.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607115653.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607115702.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607115715.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607115732.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607115742.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607115913.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607124758.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607124852.png" width="50%">
+
+
+####  
+
+
 <img src="png/QQ截图20250607124933.png" width="50%">
+
+
+####  
+
+
 <img src="png/屏幕截图 2025-06-07 115434.png" width="50%">
+
+
+####  
+
+
 <img src="png/屏幕截图 2025-06-07 115601.png" width="50%">
+
+
+####  
+
+
 
 
 

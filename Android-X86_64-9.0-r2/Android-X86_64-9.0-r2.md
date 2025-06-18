@@ -1,4 +1,4 @@
-————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
 ## 目录
 
 - [自述文件](../README.md)
@@ -9,9 +9,6 @@
 - [Windows 10 专业工作站版](../Windows%2010%20专业工作站版/Windows%2010%20专业工作站版.md)
 - [Windows 11 专业工作站版](../Windows%2011%20专业工作站版/Windows%2011%20专业工作站版.md)
 - [Windows 物理机转 VMware 虚拟机](../Windows%20物理机转%20VMware%20虚拟机/Windows%20物理机转%20VMware%20虚拟机.md)
-
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-
 
 
 
@@ -39,47 +36,131 @@
 
 
 <img src="png/QQ截图20250607143332.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143403.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143415.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143427.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143446.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143505.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143514.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143522.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143527.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143532.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143538.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143550.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143556.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143601.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143650.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143709.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143722.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143735.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143745.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143809.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143834.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143904.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143921.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143933.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607143947.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607144330.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607144331.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607144356.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607144418.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607144432.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607144458.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607144459.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607144529.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607144642.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607144726.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607144815.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607151542.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607151606.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607151617.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607151638.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607151850.png" width="50%">
+
+####  
 <img src="png/QQ截图20250607151915.png" width="50%">
+
+####  
 
 
 
@@ -87,7 +168,7 @@
 
 ## 参考
 
-- [下载 android-x86 文件](https://sourceforge.net/projects/android-x86/files/)
+
 
 <a href="https://www.cnblogs.com/Summer6/p/13696468.html">
     <img src="png/VMware Workstation安装安卓Android-X86 最新版.png"width="85%">

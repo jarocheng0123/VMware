@@ -1,3 +1,25 @@
+## 目录
+
+- [自述文件](/README.md)
+- [Android-X86_64-4.4-r5](/Android-X86_64-4.4-r5/Android-X86_64-4.4-r5.md)
+- [Android-X86_64-9.0-r2](/Android-X86_64-9.0-r2/Android-X86_64-9.0-r2.md)
+- [macOS Sequoia 15.5(24F74)](/macOS%20Sequoia%2015.5(24F74)/macOS%20Sequoia%2015.5(24F74).md)
+- [Ubuntu Desktop 24.04.2 LTS](/Ubuntu%20Desktop%2024.04.2%20LTS/Ubuntu%20Desktop%2024.04.2%20LTS.md)
+- [Windows 10 专业工作站版](/Windows%2010%20专业工作站版/Windows%2010%20专业工作站版.md)
+- [Windows 11 专业工作站版](/Windows%2011%20专业工作站版/Windows%2011%20专业工作站版.md)
+- [Windows 物理机转 VMware 虚拟机](/Windows%20物理机转%20VMware%20虚拟机/Windows%20物理机转%20VMware%20虚拟机.md)
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="png/QQ截图20250618100615.png" width="50%">
 <img src="png/QQ截图20250618100641.png" width="50%">
 <img src="png/QQ截图20250618100655.png" width="50%">
@@ -18,19 +40,6 @@
 
 
 
-————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-## 目录
-
-- [自述文件](/README.md)
-- [Android-X86_64-4.4-r5](/Android-X86_64-4.4-r5/Android-X86_64-4.4-r5.md)
-- [Android-X86_64-9.0-r2](/Android-X86_64-9.0-r2/Android-X86_64-9.0-r2.md)
-- [macOS Sequoia 15.5(24F74)](/macOS%20Sequoia%2015.5(24F74)/macOS%20Sequoia%2015.5(24F74).md)
-- [Ubuntu Desktop 24.04.2 LTS](/Ubuntu%20Desktop%2024.04.2%20LTS/Ubuntu%20Desktop%2024.04.2%20LTS.md)
-- [Windows 10 专业工作站版](/Windows%2010%20专业工作站版/Windows%2010%20专业工作站版.md)
-- [Windows 11 专业工作站版](/Windows%2011%20专业工作站版/Windows%2011%20专业工作站版.md)
-- [Windows 物理机转 VMware 虚拟机](/Windows%20物理机转%20VMware%20虚拟机/Windows%20物理机转%20VMware%20虚拟机.md)
-
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 
 - [Python 3.8.10](https://www.python.org/downloads/release/python-3810/)
@@ -57,7 +66,7 @@ idman642build27.exe
 - [软碟通_UltraISO 9.7.6.3860](https://www.yrxitong.com/h-nd-377.html)
 
 
-
+- [下载 android-x86 文件](https://sourceforge.net/projects/android-x86/files/)
 
 - [VMware macOS 解锁](https://github.com/DrDonk/unlocker/releases)
 
