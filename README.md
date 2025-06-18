@@ -1,3 +1,23 @@
+<img src="png/QQ截图20250618100615.png" width="50%">
+<img src="png/QQ截图20250618100641.png" width="50%">
+<img src="png/QQ截图20250618100655.png" width="50%">
+<img src="png/QQ截图20250618100709.png" width="50%">
+<img src="png/QQ截图20250618100719.png" width="50%">
+<img src="png/QQ截图20250618100732.png" width="50%">
+<img src="png/QQ截图20250618100743.png" width="50%">
+<img src="png/QQ截图20250618100825.png" width="50%">
+
+
+<img src="png/QQ截图20250618094204.png" width="50%">
+<img src="png/QQ截图20250618094333.png" width="50%">
+<img src="png/QQ截图20250618094427.png" width="50%">
+<img src="png/QQ截图20250618100902.png" width="50%">
+<img src="png/QQ截图20250618101002.png" width="50%">
+<img src="png/QQ截图20250618101123.png" width="50%">
+<img src="png/QQ截图20250618101231.png" width="50%">
+
+
+
 ————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 ## 目录
 
@@ -13,17 +33,33 @@
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 
+- [Python 3.8.10](https://www.python.org/downloads/release/python-3810/)
+- [Python 3.9.13](https://www.python.org/downloads/release/python-3913/)
+- [Python 3.10.11](https://www.python.org/downloads/release/python-31011/)
+- [Python 3.11.9 ](https://www.python.org/downloads/release/python-3119/)
+- [Python 3.12.10](https://www.python.org/downloads/release/python-31210/)
+- [Python 3.13.5](https://www.python.org/downloads/release/python-3135/)
 
 
+HiBitUninstaller
+PA_Green
+HEU_KMS_Activator_v50.0.0.exe
+dControl
+WeChatSetup.exe
+DiskGenius
+idman642build27.exe
 
-
-
+- [360 Zip](https://www.360totalsecurity.com/zh-cn/360zip/)
+- [Google Chrome](https://www.google.com/chrome/)
+- [VS Code](https://code.visualstudio.com/)
+- [PyCharm](https://www.jetbrains.com/zh-cn/pycharm/download/?section=windows)
+- [Notepad++](https://notepad-plus-plus.org/downloads/)
 - [软碟通_UltraISO 9.7.6.3860](https://www.yrxitong.com/h-nd-377.html)
 
 
 
 
-- [About VMware macOS utilities](https://github.com/DrDonk/unlocker/releases)
+- [VMware macOS 解锁](https://github.com/DrDonk/unlocker/releases)
 
 - [免费下载](https://support.broadcom.com/group/ecx/free-downloads)
 
@@ -42,6 +78,13 @@
 ```bash
 Password@123
 ```
+
+```bash
+@echo off
+chcp 65001 > nul
+(for /f "tokens=*" %%a in ('DIR /B *.png') do @echo ^<img src="png/%%a" width="50%%"^>) > ..\png.md
+```
+
 
 主要负责下载安装 介绍NTA   VMware Tools
 
@@ -114,5 +157,36 @@ NAT	共享主机网络（默认）	DHCP 自动分配	虚拟机可访问互联网
 客户机系统中手动设置 IP 为与主机同网段（如主机 IP 192.168.1.100，虚拟机设 192.168.1.101）。
 
 
+https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Tools&freeDownloads=true
+
+
+Microsoft Windows [版本 10.0.19045.5854]
+(c) Microsoft Corporation。保留所有权利。
+
+C:\Users\Windows 10\Downloads\VMware-Tools-windows-13.0.0.0.24696409-24696475\vmtools>dir /b
+buildNumber.txt
+isoimages_manifest.txt
+isoimages_manifest.txt.sig
+version.txt
+windows.iso
+windows.iso.sha
+windows.iso.sig
+windows_avr_manifest.txt
+windows_avr_manifest.txt.sig
+
+----------------------------------------windows.iso
+
+--------------------------------------------------------------------------------------------------
+
+https://github.com/DrDonk/unlocker/releases
+
+Microsoft Windows [版本 10.0.26100.4061]
+(c) Microsoft Corporation。保留所有权利。
+
+C:\Users\zzz\Downloads\unlocker427\iso>DIR /B
+darwin.iso
+darwinPre15.iso
+
+----------------------------------------darwin.iso
 
 
