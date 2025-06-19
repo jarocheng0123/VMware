@@ -58,6 +58,13 @@ WeChatSetup.exe
 DiskGenius
 idman642build27.exe
 
+ - [优启通EasyU 3.7.2023.1206_小鱼儿yr定制版](https://www.yrxitong.com/h-nd-764.html)
+```bash
+yrxitong.com
+```
+
+
+
 - [360 Zip](https://www.360totalsecurity.com/zh-cn/360zip/)
 - [Google Chrome](https://www.google.com/chrome/)
 - [VS Code](https://code.visualstudio.com/)
