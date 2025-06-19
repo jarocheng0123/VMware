@@ -23,6 +23,9 @@
 #### 自定义
 <img src="png/QQ截图20250607125548.png" width="50%">
 
+####  下一步
+<img src="png/QQ截图20250607143403.png" width="50%">
+
 ####  稍后安装操作系统
 <img src="png/QQ截图20250607125747.png" width="50%">
 
@@ -57,6 +60,10 @@
 
 #### 磁盘文件存储位置(默认)
 <img src="png/QQ截图20250607134534.png" width="50%">
+
+
+####  完成
+<img src="png/QQ截图20250619101410.png" width="50%">
 
 ## 分区配置
 
@@ -106,6 +113,17 @@ NO
 - Are you sure you want to write the partition table to disk? (yes or no) `您确定要将分区表写入磁盘吗？（是或否）`
 - Warning!! This may destroy data on your disk! `警告！！这可能会破坏磁盘上的数据！`
 <img src="png/QQ截图20250607130549.png" width="50%">
+
+
+
+#### `Quit 退出`➡️↩
+
+- Quit program without writing partition table`不写入分区表退出程序`
+
+<img src="png/QQ截图20250607143921.png" width="50%">
+
+
+
 
 #### 选择`sda1`↩
 
