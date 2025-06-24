@@ -36,10 +36,10 @@
 <img src="png/QQ截图20250607125845.png" width="50%">
 
 
-#### 处理器内核总数必须双核
+#### 根据电脑硬件配置 `下一步`
 <img src="png/QQ截图20250607125854.png" width="50%">
 
-#### 内存至少1G以上
+#### 根据电脑硬件配置 `下一步`
 <img src="png/QQ截图20250607125902.png" width="50%">
 
 #### 使用网络地址转换（NAT）
@@ -54,7 +54,7 @@
 #### 创建新虚拟磁盘
 <img src="png/QQ截图20250607125920.png" width="50%">
 
-#### 磁盘 8GB
+#### 根据电脑硬件配置 `下一步`
 <img src="png/QQ截图20250607125929.png" width="50%">
 
 
@@ -64,6 +64,24 @@
 
 ####  完成
 <img src="png/QQ截图20250619101410.png" width="50%">
+
+
+
+
+
+
+####  镜像文件 `android-x86-4.4-r5.iso`
+
+
+<img src="png/QQ截图20250616105350.png" width="50%">
+
+
+####  开机界面
+
+
+
+
+
 
 ## 分区配置
 
@@ -104,6 +122,12 @@ NO
 #### `Name`下面显示创建的磁盘分区`sda1`
 - Toggle bootable flag of the current partition`切换当前分区的可引导标记状态`
 <img src="png/QQ截图20250607130449.png" width="50%">
+
+
+
+
+<img src="png/QQ截图20250624134203.png" width="50%">
+
 
 #### `Write 写入`➡️↩
 - Write partition table to disk (this might destroy data) `将分区表写入磁盘（这可能会破坏数据）`
@@ -221,7 +245,7 @@ NO
 
 ## 参考
 
-<a href="https://www.0xaa55.com/thread-1730-1-1.html">
-    <img src="png/【装系统】Android-x86 4.4安装到VMware的教程.png"width="85%">
-</a>
+
+- [【装系统】Android-x86 4.4安装到VMware的教程](https://www.0xaa55.com/thread-1730-1-1.html)
+
 

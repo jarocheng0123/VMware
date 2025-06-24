@@ -14,8 +14,49 @@
 
 
 
+截至2025年6月24日，在VMware中可尝试安装的 **Android最新可用版本，主要基于Android - x86项目，当前适配到类似 Android 9.0、10 等版本的 x86 移植版** ，原因和关键说明如下：  
+
+### 一、核心限制：Android 官方无“PC 原生镜像”  
+Android 官方系统（如 Android 16）**仅面向手机/平板等移动设备** ，没有直接适配 x86 架构 PC 的安装包，也不支持 VMware 直接安装。  
+
+若想在 VMware 跑 Android，需依赖 **Android - x86 项目**（把 Android 移植到 x86 架构的社区项目 ），其提供的镜像，是 VMware 安装 Android 系统的唯一可行方案。  
 
 
+### 二、Android - x86 最新适配情况  
+目前 Android - x86 项目对高版本 Android（如 11+ ）的适配 **仍有兼容性问题**（如驱动、硬件支持不完善 ），实际可稳定安装使用的，多是 **Android 9.0、10 左右的 x86 移植版** ，例如：  
+- **Android - x86 9.0**：社区相对完善的版本，支持 VMware 安装，适配基础硬件（网卡、显卡模拟 ），可运行大部分 App。  
+- **Android - x86 10**：部分镜像可尝试，但对 VMware 环境要求更高，可能出现启动卡 Logo、硬件无法驱动等问题。  
+
+
+### 三、安装建议（以 Android - x86 9.0 为例）  
+1. **下载镜像**：  
+   去 [Android - x86 官网](https://www.android-x86.org/) 或 OSDN 平台，找 **android - x86 - 9.0 - r2.iso**（或带 `k49` 后缀的稳定版 ）。  
+
+2. **VMware 配置**：  
+   - 新建虚拟机，选 **“典型”安装**，加载下载的 `.iso` 镜像。  
+   - 客户机操作系统选 **“Linux”** → 版本选 **“其他 Linux 4.x 内核 64 位”** 。  
+   - 分配内存 ≥2GB、CPU ≥2 核、磁盘 ≥12GB 。  
+
+3. **安装关键步骤**：  
+   - 启动虚拟机后，选 **“Installation - Install Android - x86 to harddisk”** 。  
+   - 磁盘分区选 **“Create/Modify partitions”** ，手动建主分区并标记为 `Bootable` ，格式选 `ext4` 。  
+   - 安装 GRUB 引导、设置系统可读写，重启后若卡 Logo，需进 Debug 模式添加 `nomodeset` 参数（修复显卡兼容 ）。  
+
+
+### 四、更高版本尝试（风险提示）  
+若想测试 Android 11+ 版本，可搜 **“Android - x86 11/12 镜像”** ，但需注意：  
+- 可能因 VMware 模拟环境、驱动适配问题，出现无法启动、硬件（如网络、声卡 ）无法使用等情况。  
+- 更适合技术调试，不建议日常使用。  
+
+
+总结：**VMware 安装 Android，实际依赖 Android - x86 项目，当前稳定可用的“最新版本”是 Android 9.0/10 左右的移植版** ；若追求官方高版本（如 Android 16 ），需等 Android - x86 社区进一步适配，或改用 Android 官方模拟器（Android Studio 自带，但非 VMware 环境 ）。
+
+
+参考只提供链接不放png但保留png
+
+
+
+验证 .png" width="  对应的图片是否正确
 
 
 

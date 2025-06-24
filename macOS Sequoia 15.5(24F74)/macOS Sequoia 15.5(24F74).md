@@ -1,4 +1,4 @@
-————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
 ## 目录
 
 - [自述文件](../README.md)
@@ -10,7 +10,7 @@
 - [Windows 11 专业工作站版](../Windows%2011%20专业工作站版/Windows%2011%20专业工作站版.md)
 - [Windows 物理机转 VMware 虚拟机](../Windows%20物理机转%20VMware%20虚拟机/Windows%20物理机转%20VMware%20虚拟机.md)
 
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
 
 
 
@@ -366,7 +366,7 @@ VMware Tools 安装失败：手动挂载 darwin.iso，运行 ./VMwareTools-*.pl 
 ####  
 
 
-<img src="png/屏幕截图 2025-06-07 115434.png" width="50%">
+
 
 
 ####  
@@ -451,11 +451,11 @@ serialNumber = "C01231237890"
 
 
 <a href="https://heipg.cn/tutorial/install-macos-by-using-vmware-in-windows.html">
-    <img src="png/在 Windows 下使用 VMware Workstation 安装 macOS 的详细教程.png"width="85%">
+    <img src="png/在 Windows 下使用 VMware Workstation 安装 macOS 的详细教程.png" width="85%">
 </a>
 
 ## 1111
 
 <a href="https://blog.csdn.net/raspi_fans/article/details/122908420">
-    <img src="png/macOS虚拟机安装全过程（VMware）.png"width="85%">
+    <img src="png/macOS虚拟机安装全过程（VMware）.png" width="85%">
 </a>
