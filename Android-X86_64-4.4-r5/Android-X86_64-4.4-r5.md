@@ -12,12 +12,10 @@
 
 # VMware 安装 Android-X86_64-4.4-r5
 
-## android-x86 下载
-
- - [android-x86 Files](https://sourceforge.net/projects/android-x86/files/)
 
 
-## 创建 VMware 虚拟机
+
+
 
 
 #### 自定义
@@ -240,12 +238,5 @@ NO
 <img src="png/QQ截图20250607135832.png" width="50%">
 
 #### 
-
-
-
-## 参考
-
-
-- [【装系统】Android-x86 4.4安装到VMware的教程](https://www.0xaa55.com/thread-1730-1-1.html)
 
 

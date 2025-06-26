@@ -9,10 +9,63 @@
 - [Windows 11 专业工作站版](/Windows%2011%20专业工作站版/Windows%2011%20专业工作站版.md)
 - [Windows 物理机转 VMware 虚拟机](/Windows%20物理机转%20VMware%20虚拟机/Windows%20物理机转%20VMware%20虚拟机.md)
 
+## android-x86 下载
+
+ - [android-x86 Files](https://sourceforge.net/projects/android-x86/files/)
+
+
+## 创建 VMware 虚拟机
+## android-x86 下载
+
+ - [android-x86 Files](https://sourceforge.net/projects/android-x86/files/)
+
+
+## 参考
+
+
+- [【装系统】Android-x86 4.4安装到VMware的教程](https://www.0xaa55.com/thread-1730-1-1.html)
+
+##  下载
+
+- [下载 Ubuntu 桌面](https://ubuntu.com/download/desktop)
+####  
+
+vmtool 下载地址
+https://packages-prod.broadcom.com/tools/frozen/linux/linux.iso
+
+## 参考
+
+- [黑苹果社区 - 专注于黑苹果安装系统教程驱动软件](https://osx.cx/)
+- [黑苹果屋 - 黑苹果屋—Hackintosh-黑苹果单双系统安装全套完整教程资源](https://imacos.top/category/hpgw/xtgx/iso/)
+- [黑苹果星球-分享Mac的精彩世界](https://heipg.cn/)
+
+## 补充
+
+- [提升Ubuntu性能的15个最佳技巧](https://cn.linux-console.net/?p=36276)
+- [每个初学者都应该知道的15个基础Linux问题](https://cn.linux-console.net/?p=36280)
+## 平台
+
+- [如何制作适用于VMware Fusion安装的macOS Catalina CDR系统镜像？](https://heipg.cn/tutorial/macos-catalina-cdr.html)
+## 1111
+
+- [在 Windows 下使用 VMware Workstation 安装 macOS 的详细教程](https://heipg.cn/tutorial/install-macos-by-using-vmware-in-windows.html)
+
+- [macOS虚拟机安装全过程（VMware）](https://blog.csdn.net/raspi_fans/article/details/122908420)
+
+
+# 镜像
+  
+- [macOS Monterey 12.6(21G115)正式版 虚拟机ISO格式](https://heipg.cn/macos/macos-monterey-12-6-21g115-iso.html)
+- [macOS Sequoia 15.5(24F74) 正式版 虚拟机ISO格式](https://heipg.cn/macos/macos-sequoia-15-5-24f74-iso.html)
+
+## 参考
 
 
 
 
+</a>
+
+- [VMware Workstation安装安卓Android-X86 最新版](https://www.cnblogs.com/Summer6/p/13696468.html)
 
 截至2025年6月24日，在VMware中可尝试安装的 **Android最新可用版本，主要基于Android - x86项目，当前适配到类似 Android 9.0、10 等版本的 x86 移植版** ，原因和关键说明如下：  
 

@@ -13,12 +13,7 @@
 # VMware 安装 Android-X86_64-9.0-r2
 
 
-## android-x86 下载
 
- - [android-x86 Files](https://sourceforge.net/projects/android-x86/files/)
-
-
-## 创建 VMware 虚拟机
 #### 自定义
 <img src="png/QQ截图20250607143332.png" width="50%">
 
@@ -264,17 +259,3 @@ nomodeset
 ####  
 <img src="png/QQ截图20250607151915.png" width="50%">
 
-####  
-
-
-
-
-
-## 参考
-
-
-
-
-</a>
-
-- [VMware Workstation安装安卓Android-X86 最新版](https://www.cnblogs.com/Summer6/p/13696468.html)

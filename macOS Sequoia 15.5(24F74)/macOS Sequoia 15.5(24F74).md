@@ -21,10 +21,7 @@
 
 
 
-# 镜像
-  
-- [macOS Monterey 12.6(21G115)正式版 虚拟机ISO格式](https://heipg.cn/macos/macos-monterey-12-6-21g115-iso.html)
-- [macOS Sequoia 15.5(24F74) 正式版 虚拟机ISO格式](https://heipg.cn/macos/macos-sequoia-15-5-24f74-iso.html)
+
 
 
 
@@ -437,25 +434,3 @@ serialNumber = "C01231237890"
 
 
 
-## 参考
-
-- [黑苹果社区 - 专注于黑苹果安装系统教程驱动软件](https://osx.cx/)
-- [黑苹果屋 - 黑苹果屋—Hackintosh-黑苹果单双系统安装全套完整教程资源](https://imacos.top/category/hpgw/xtgx/iso/)
-- [黑苹果星球-分享Mac的精彩世界](https://heipg.cn/)
-
-
-## 平台
-
-- [如何制作适用于VMware Fusion安装的macOS Catalina CDR系统镜像？](https://heipg.cn/tutorial/macos-catalina-cdr.html)
-## 1111
-
-
-<a href="https://heipg.cn/tutorial/install-macos-by-using-vmware-in-windows.html">
-    <img src="png/在 Windows 下使用 VMware Workstation 安装 macOS 的详细教程.png" width="85%">
-</a>
-
-## 1111
-
-<a href="https://blog.csdn.net/raspi_fans/article/details/122908420">
-    <img src="png/macOS虚拟机安装全过程（VMware）.png" width="85%">
-</a>
