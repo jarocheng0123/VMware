@@ -61,7 +61,54 @@ https://packages-prod.broadcom.com/tools/frozen/linux/linux.iso
 ## 参考
 
 
+无法下载APP
 
+破解macos限制
+
+虚拟化引擎，虚拟化Intel VT-x/EPT或AMD-V/RVI(V)
+
+
+unlocker会帮你下载一个最新版的darwin.iso
+VMware Tools ===== darwin.iso 
+
+
+
+
+
+
+
+
+
+
+
+图片1 选择语言为中文，点击“磁盘工具”；
+图片2 左侧栏选择VMware开头的那项，点击上方的“抹掉”；
+图片3 名称自己选，下面两个默认；
+图片4
+
+
+
+
+打开macOS虚拟机等待进度条结束
+
+点击“磁盘工具”，选择第一个磁盘，点击上方“抹掉”，设置名称，格式方案默认。
+点击安装macOS系统，等待系统安装完成
+关机，添加硬件CD/DVD，选择ISO镜像文件darwin.iso 
+开机，安装VMware Tools
+
+
+
+安装VMware Tools
+
+
+
+
+
+
+
+常见问题：
+黑屏 / 卡进度条：减少 CPU 核心数至 2 核，关闭 3D 加速。
+VMware Tools 安装失败：手动挂载 darwin.iso，运行 ./VMwareTools-*.pl 脚本。
 
 </a>
 
