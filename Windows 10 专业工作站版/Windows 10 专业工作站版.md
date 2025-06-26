@@ -1,4 +1,4 @@
-————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
 ## 目录
 
 - [自述文件](../README.md)
@@ -10,128 +10,131 @@
 - [Windows 11 专业工作站版](../Windows%2011%20专业工作站版/Windows%2011%20专业工作站版.md)
 - [Windows 物理机转 VMware 虚拟机](../Windows%20物理机转%20VMware%20虚拟机/Windows%20物理机转%20VMware%20虚拟机.md)
 
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+## 在VMware 中安装 Windows 10 专业工作站版
+
+#### 自定义
 
 
 
 <img src="png/QQ截图20250616134727.png" width="50%">
 
 
-####  
+####  下一步
 
 
 <img src="png/QQ截图20250616134749.png" width="50%">
 
 
-####  
+####  稍后安装操作系统
 
 
 <img src="png/QQ截图20250616134800.png" width="50%">
 
 
-####  
+####  Microsoft Windows
 
 
 <img src="png/QQ截图20250616134810.png" width="50%">
 
 
-####  
+####  虚拟机保存位置
 
 
 <img src="png/QQ截图20250616135014.png" width="50%">
 
 
-####  
+####  BIOS
 
 
 <img src="png/QQ截图20250616135019.png" width="50%">
 
 
-####  
+####  根据系统性能自定义
 
 
 <img src="png/QQ截图20250616135026.png" width="50%">
 
 
-####  
+####  根据系统性能自定义
 
 
 <img src="png/QQ截图20250616135034.png" width="50%">
 
 
-####  
+####  使用网络地址转换(NAT)(E)
 
 
 <img src="png/QQ截图20250616135039.png" width="50%">
 
 
-####  
+####  LSI Logic SAS(S)
 
 
 <img src="png/QQ截图20250616135044.png" width="50%">
 
 
-####  
+####  NVMe(V)
 
 
 <img src="png/QQ截图20250616135049.png" width="50%">
 
 
-####  
+####  创建新虚拟磁盘
 
 
 <img src="png/QQ截图20250616135102.png" width="50%">
 
 
-####  
+####  根据系统性能自定义
 
 
 <img src="png/QQ截图20250616135114.png" width="50%">
 
 
-####  
+####  下一步
 
 
 <img src="png/QQ截图20250616135120.png" width="50%">
 
 
-####  
+####  选择镜像文件`zh-cn_windows_10_business_editions_version_22h2_updated_may_2025_x64_dvd_383360ec.iso`
 
 
 <img src="png/QQ截图20250616135154.png" width="50%">
 
 
-####  
+####  开机 logo
 
 
 <img src="png/QQ截图20250616135214.png" width="50%">
 
 
-####  
+####  下一步
 
 
 <img src="png/QQ截图20250616135229.png" width="50%">
 
 
-####  
+####  现在安装
 
 
 <img src="png/QQ截图20250616135239.png" width="50%">
 
 
-####  
+####  安装程序正在启动
 
 
 <img src="png/QQ截图20250616135247.png" width="50%">
 
 
-####  
+####  Windows 10 专业工作站版
 
 
 <img src="png/QQ截图20250616135255.png" width="50%">
 
 
-####  
+####  自定义：仅安装 Windows （高级）(C)
 
 
 <img src="png/QQ截图20250616135336.png" width="50%">
