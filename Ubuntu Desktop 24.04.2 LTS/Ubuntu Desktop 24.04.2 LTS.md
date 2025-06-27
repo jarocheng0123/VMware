@@ -10,7 +10,8 @@
 - [Windows 11 专业工作站版](../Windows%2011%20专业工作站版/Windows%2011%20专业工作站版.md)
 - [Windows 物理机转 VMware 虚拟机](../Windows%20物理机转%20VMware%20虚拟机/Windows%20物理机转%20VMware%20虚拟机.md)
 
-
+.png" width=
+49
 
 
 ## 在VMware 安装 Ubuntu Desktop 24.04.2 LTS

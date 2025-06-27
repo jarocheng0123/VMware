@@ -11,6 +11,10 @@
 - [Windows 物理机转 VMware 虚拟机](../Windows%20物理机转%20VMware%20虚拟机/Windows%20物理机转%20VMware%20虚拟机.md)
 
 
+.png" width=
+44
+
+
 ## 在VMware 中安装 Windows 10 专业工作站版
 
 #### 自定义
@@ -140,145 +144,145 @@
 <img src="png/QQ截图20250616135336.png" width="50%">
 
 
-####  
+####  下一页
 
 
 <img src="png/QQ截图20250616135344.png" width="50%">
 
 
-####  
+####  正在安装 Windows
 
 
 <img src="png/QQ截图20250616135353.png" width="50%">
 
 
-####  
+####  立即重启
 
 
 <img src="png/QQ截图20250616135537.png" width="50%">
 
 
-####  
+####  开机 logo
 
 
 <img src="png/QQ截图20250616135611.png" width="50%">
 
 
-####  
+####  请稍等...
 
 
 <img src="png/QQ截图20250616135737.png" width="50%">
 
 
-####  
+####  让我们先从区域设置开始。这样对吧？`中国`
 
 
 <img src="png/QQ截图20250616135812.png" width="50%">
 
 
-####  
+####  针对个人使用进行设置
 
 
 <img src="png/QQ截图20250616135916.png" width="50%">
 
 
-####  
+####  脱机账户
 
 
 <img src="png/QQ截图20250616135932.png" width="50%">
 
 
-####  
+####  有限的体验
 
 
 <img src="png/QQ截图20250616135945.png" width="50%">
 
 
-####  
+####  自定义用户名
 
 
 <img src="png/QQ截图20250616140018.png" width="50%">
 
 
-####  
+####  以后再说
 
 
 <img src="png/QQ截图20250616140043.png" width="50%">
 
 
-####  
+####  为你的设备选择隐私设置`全部关闭`
 
 
 <img src="png/QQ截图20250616140054.png" width="50%">
 
 
-####  
+####  跳过
 
 
 <img src="png/QQ截图20250616140110.png" width="50%">
 
 
-####  
+####  等待
 
 
 <img src="png/QQ截图20250616140124.png" width="50%">
 
 
-####  
+####  在线安装 VMware Tools
 
 
 <img src="png/QQ截图20250616140433.png" width="50%">
 
 
-####  
+####  使用ISO镜像安装VMware Tools
 
 
 <img src="png/QQ截图20250616163553.png" width="50%">
 
 
-####  
 
 
-<img src="png/QQ截图20250616163629.png" width="50%">
 
-
-####  
+####  双击`DVD 驱动器`
 
 
 <img src="png/QQ截图20250616163659.png" width="50%">
 
 
-####  
+####  正在准备“VMware Tools”进行安装...
 
 
 <img src="png/QQ截图20250616163719.png" width="50%">
 
 
-####  
+####  下一步
 
 
 <img src="png/QQ截图20250616163729.png" width="50%">
 
 
-####  
+####  完整安装(C)
 
 
 <img src="png/QQ截图20250616163740.png" width="50%">
 
 
-####  
+####  完成
 
 
 <img src="png/QQ截图20250616163825.png" width="50%">
 
 
-####  
+####  是
 
 
 <img src="png/QQ截图20250616163839.png" width="50%">
 
 
-####  
+####  重启
+
+
+<img src="png/QQ截图20250616163629.png" width="50%">
 
 
 

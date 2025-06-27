@@ -13,7 +13,8 @@
 
  - [android-x86 Files](https://sourceforge.net/projects/android-x86/files/)
 
-
+ - [MSDN, 我告诉你 - 做一个安静的工具站](https://msdn.itellyou.cn/)
+ - [MSDN官方原版Windows镜像下载 - MSDN镜像库](https://msdn.lopins.cn/windows.html)
 ## 创建 VMware 虚拟机
 ## android-x86 下载
 
@@ -21,7 +22,8 @@
 
 
 ## 参考
-
+下载优启通：https://www.yrxitong.com/h-nd-764.html
+下载UitraISO ：https://www.yrxitong.com/h-nd-377.html
 
 - [【装系统】Android-x86 4.4安装到VMware的教程](https://www.0xaa55.com/thread-1730-1-1.html)
 
