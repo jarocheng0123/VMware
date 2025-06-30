@@ -9,58 +9,142 @@
 - [Windows 11 专业工作站版](/Windows%2011%20专业工作站版/Windows%2011%20专业工作站版.md)
 - [Windows 物理机转 VMware 虚拟机](/Windows%20物理机转%20VMware%20虚拟机/Windows%20物理机转%20VMware%20虚拟机.md)
 
-## android-x86 下载
+
+
+
+
+
+## 在Windows 安装 VMware Workstation Pro 
+
+#### 下一步
+<img src="png/QQ截图20250618100615.png" width="50%">
+
+#### 下一步
+<img src="png/QQ截图20250618100641.png" width="50%">
+
+#### 下一步
+<img src="png/QQ截图20250618100655.png" width="50%">
+
+#### 下一步
+<img src="png/QQ截图20250618100709.png" width="50%">
+
+#### 下一步 
+<img src="png/QQ截图20250618100719.png" width="50%">
+
+#### 安装
+<img src="png/QQ截图20250618100732.png" width="50%">
+
+#### 正在安装 VMware Workstation Pro
+<img src="png/QQ截图20250618100743.png" width="50%">
+
+#### 完成
+<img src="png/QQ截图20250618100825.png" width="50%">
+
+
+## 下载 `unlocker427.zip`
+<img src="png/QQ截图20250618094204.png" width="50%">
+
+#### 解压 `unlocker427.zip`
+<img src="png/QQ截图20250618094333.png" width="50%">
+
+#### 备份 `unlocker427\iso\darwin.iso`
+<img src="png/QQ截图20250618094427.png" width="50%">
+
+#### 当前未解锁`Apple macOS(M)`
+<img src="png/QQ截图20250618100902.png" width="50%">
+
+#### 以管理员身份运行 `unlocker427\windows\unlock.exe`
+<img src="png/QQ截图20250618101002.png" width="50%">
+
+#### 运行完成
+<img src="png/QQ截图20250618101123.png" width="50%">
+
+#### 当前已解锁`Apple macOS(M)`
+<img src="png/QQ截图20250618101231.png" width="50%">
+
+
+
+
+## VMware 下载
+
+- [VMware tools for linux](https://packages-prod.broadcom.com/tools/frozen/linux/linux.iso)
+
+
+
+
+
+## 工具下载
+- [优启通EasyU 3.7.2023.1206_小鱼儿yr定制版](https://www.yrxitong.com/h-nd-764.html)
+- [软碟通_UltraISO 9.7.6.3860](https://www.yrxitong.com/h-nd-377.html)
+
+
+## 镜像下载
 
  - [android-x86 Files](https://sourceforge.net/projects/android-x86/files/)
 
  - [MSDN, 我告诉你 - 做一个安静的工具站](https://msdn.itellyou.cn/)
  - [MSDN官方原版Windows镜像下载 - MSDN镜像库](https://msdn.lopins.cn/windows.html)
-## 创建 VMware 虚拟机
-## android-x86 下载
 
- - [android-x86 Files](https://sourceforge.net/projects/android-x86/files/)
-
-
-## 参考
-下载优启通：https://www.yrxitong.com/h-nd-764.html
-下载UitraISO ：https://www.yrxitong.com/h-nd-377.html
-
-- [【装系统】Android-x86 4.4安装到VMware的教程](https://www.0xaa55.com/thread-1730-1-1.html)
-
-##  下载
 
 - [下载 Ubuntu 桌面](https://ubuntu.com/download/desktop)
-####  
 
-vmtool 下载地址
-https://packages-prod.broadcom.com/tools/frozen/linux/linux.iso
+- [macOS Monterey 12.6(21G115)正式版 虚拟机ISO格式](https://heipg.cn/macos/macos-monterey-12-6-21g115-iso.html)
+- [macOS Sequoia 15.5(24F74) 正式版 虚拟机ISO格式](https://heipg.cn/macos/macos-sequoia-15-5-24f74-iso.html)
 
-## 参考
+## 教程
 
-- [黑苹果社区 - 专注于黑苹果安装系统教程驱动软件](https://osx.cx/)
-- [黑苹果屋 - 黑苹果屋—Hackintosh-黑苹果单双系统安装全套完整教程资源](https://imacos.top/category/hpgw/xtgx/iso/)
-- [黑苹果星球-分享Mac的精彩世界](https://heipg.cn/)
-
-## 补充
-
-- [提升Ubuntu性能的15个最佳技巧](https://cn.linux-console.net/?p=36276)
-- [每个初学者都应该知道的15个基础Linux问题](https://cn.linux-console.net/?p=36280)
-## 平台
+- [Android-x86 4.4安装到VMware的教程](https://www.0xaa55.com/thread-1730-1-1.html)
 
 - [如何制作适用于VMware Fusion安装的macOS Catalina CDR系统镜像？](https://heipg.cn/tutorial/macos-catalina-cdr.html)
-## 1111
 
 - [在 Windows 下使用 VMware Workstation 安装 macOS 的详细教程](https://heipg.cn/tutorial/install-macos-by-using-vmware-in-windows.html)
 
 - [macOS虚拟机安装全过程（VMware）](https://blog.csdn.net/raspi_fans/article/details/122908420)
 
 
-# 镜像
-  
-- [macOS Monterey 12.6(21G115)正式版 虚拟机ISO格式](https://heipg.cn/macos/macos-monterey-12-6-21g115-iso.html)
-- [macOS Sequoia 15.5(24F74) 正式版 虚拟机ISO格式](https://heipg.cn/macos/macos-sequoia-15-5-24f74-iso.html)
+## 参考网站
+- [黑苹果社区 - 专注于黑苹果安装系统教程驱动软件](https://osx.cx/)
+- [黑苹果屋 - 黑苹果屋—Hackintosh-黑苹果单双系统安装全套完整教程资源](https://imacos.top/category/hpgw/xtgx/iso/)
+- [黑苹果星球-分享Mac的精彩世界](https://heipg.cn/)
 
-## 参考
+
+
+- [提升Ubuntu性能的15个最佳技巧](https://cn.linux-console.net/?p=36276)
+- [每个初学者都应该知道的15个基础Linux问题](https://cn.linux-console.net/?p=36280)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 参考文章
 
 
 无法下载APP
@@ -162,24 +246,6 @@ Android 官方系统（如 Android 16）**仅面向手机/平板等移动设备*
 
 
 
-
-<img src="png/QQ截图20250618100615.png" width="50%">
-<img src="png/QQ截图20250618100641.png" width="50%">
-<img src="png/QQ截图20250618100655.png" width="50%">
-<img src="png/QQ截图20250618100709.png" width="50%">
-<img src="png/QQ截图20250618100719.png" width="50%">
-<img src="png/QQ截图20250618100732.png" width="50%">
-<img src="png/QQ截图20250618100743.png" width="50%">
-<img src="png/QQ截图20250618100825.png" width="50%">
-
-
-<img src="png/QQ截图20250618094204.png" width="50%">
-<img src="png/QQ截图20250618094333.png" width="50%">
-<img src="png/QQ截图20250618094427.png" width="50%">
-<img src="png/QQ截图20250618100902.png" width="50%">
-<img src="png/QQ截图20250618101002.png" width="50%">
-<img src="png/QQ截图20250618101123.png" width="50%">
-<img src="png/QQ截图20250618101231.png" width="50%">
 
 
 
