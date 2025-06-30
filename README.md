@@ -16,6 +16,25 @@
 
 ## 在Windows 安装 VMware Workstation Pro 
 
+
+- [Broadcom 支持门户](https://support.broadcom.com/group/ecx/free-downloads)
+```bash
+1135604098@qq.com
+```
+```bash
+Password@123
+```
+
+
+
+
+- [VMware 工作站专业版](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)
+
+
+- [ VMware Workstation Pro 使用说明](https://techdocs.broadcom.com/cn/zh-cn/vmware-cis/desktop-hypervisors/workstation-pro/17-0/using-vmware-workstation-pro.html)
+
+
+
 #### 下一步
 <img src="png/QQ截图20250618100615.png" width="50%">
 
@@ -66,16 +85,66 @@
 
 
 ## VMware 下载
+- [VMware Tools](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Tools&freeDownloads=true)
+
+
+```bash
+
+VMware-Tools-windows-13.0.0.0.24696409-24696475\vmtools\windows.iso
+```
+
+
+
+
 
 - [VMware tools for linux](https://packages-prod.broadcom.com/tools/frozen/linux/linux.iso)
 
 
 
 
+```bash
+sudo ./VMwareTools-10.3.26-22085142/vmware-tools-distrib/vmware-install.pl 
+```
+
+
+
+- [Unlocker 4.2.7](https://github.com/DrDonk/unlocker/releases)
+
+
+```bash
+unlocker427\iso\darwin.iso
+```
+
 
 ## 工具下载
 - [优启通EasyU 3.7.2023.1206_小鱼儿yr定制版](https://www.yrxitong.com/h-nd-764.html)
 - [软碟通_UltraISO 9.7.6.3860](https://www.yrxitong.com/h-nd-377.html)
+- [Unlocker 4.2.7](https://github.com/DrDonk/unlocker/releases)
+
+
+## 常用软件
+
+- [Python 3.8.10](https://www.python.org/downloads/release/python-3810/)
+- [Python 3.9.13](https://www.python.org/downloads/release/python-3913/)
+- [Python 3.10.11](https://www.python.org/downloads/release/python-31011/)
+- [Python 3.11.9 ](https://www.python.org/downloads/release/python-3119/)
+- [Python 3.12.10](https://www.python.org/downloads/release/python-31210/)
+- [Python 3.13.5](https://www.python.org/downloads/release/python-3135/)
+
+
+HiBitUninstaller
+PA_Green
+HEU_KMS_Activator_v50.0.0.exe
+dControl
+WeChatSetup.exe
+DiskGenius
+idman642build27.exe
+
+- [360 Zip](https://www.360totalsecurity.com/zh-cn/360zip/)
+- [Google Chrome](https://www.google.com/chrome/)
+- [VS Code](https://code.visualstudio.com/)
+- [PyCharm](https://www.jetbrains.com/zh-cn/pycharm/download/?section=windows)
+- [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 
 ## 镜像下载
@@ -94,7 +163,7 @@
 ## 教程
 
 - [Android-x86 4.4安装到VMware的教程](https://www.0xaa55.com/thread-1730-1-1.html)
-
+- [VMware Workstation安装安卓android-x86-9.0-r2](https://www.cnblogs.com/Summer6/p/13696468.html)
 - [如何制作适用于VMware Fusion安装的macOS Catalina CDR系统镜像？](https://heipg.cn/tutorial/macos-catalina-cdr.html)
 
 - [在 Windows 下使用 VMware Workstation 安装 macOS 的详细教程](https://heipg.cn/tutorial/install-macos-by-using-vmware-in-windows.html)
@@ -198,7 +267,7 @@ VMware Tools 安装失败：手动挂载 darwin.iso，运行 ./VMwareTools-*.pl 
 
 </a>
 
-- [VMware Workstation安装安卓Android-X86 最新版](https://www.cnblogs.com/Summer6/p/13696468.html)
+
 
 截至2025年6月24日，在VMware中可尝试安装的 **Android最新可用版本，主要基于Android - x86项目，当前适配到类似 Android 9.0、10 等版本的 x86 移植版** ，原因和关键说明如下：  
 
@@ -238,77 +307,11 @@ Android 官方系统（如 Android 16）**仅面向手机/平板等移动设备*
 总结：**VMware 安装 Android，实际依赖 Android - x86 项目，当前稳定可用的“最新版本”是 Android 9.0/10 左右的移植版** ；若追求官方高版本（如 Android 16 ），需等 Android - x86 社区进一步适配，或改用 Android 官方模拟器（Android Studio 自带，但非 VMware 环境 ）。
 
 
-参考只提供链接不放png但保留png
-
-
-
-验证 .png" width="  对应的图片是否正确
 
 
 
 
 
-
-
-
-- [Python 3.8.10](https://www.python.org/downloads/release/python-3810/)
-- [Python 3.9.13](https://www.python.org/downloads/release/python-3913/)
-- [Python 3.10.11](https://www.python.org/downloads/release/python-31011/)
-- [Python 3.11.9 ](https://www.python.org/downloads/release/python-3119/)
-- [Python 3.12.10](https://www.python.org/downloads/release/python-31210/)
-- [Python 3.13.5](https://www.python.org/downloads/release/python-3135/)
-
-
-HiBitUninstaller
-PA_Green
-HEU_KMS_Activator_v50.0.0.exe
-dControl
-WeChatSetup.exe
-DiskGenius
-idman642build27.exe
-
- - [优启通EasyU 3.7.2023.1206_小鱼儿yr定制版](https://www.yrxitong.com/h-nd-764.html)
-```bash
-yrxitong.com
-```
-
-
-
-- [360 Zip](https://www.360totalsecurity.com/zh-cn/360zip/)
-- [Google Chrome](https://www.google.com/chrome/)
-- [VS Code](https://code.visualstudio.com/)
-- [PyCharm](https://www.jetbrains.com/zh-cn/pycharm/download/?section=windows)
-- [Notepad++](https://notepad-plus-plus.org/downloads/)
-- [软碟通_UltraISO 9.7.6.3860](https://www.yrxitong.com/h-nd-377.html)
-
-
-- [下载 android-x86 文件](https://sourceforge.net/projects/android-x86/files/)
-
-- [VMware macOS 解锁](https://github.com/DrDonk/unlocker/releases)
-
-- [免费下载](https://support.broadcom.com/group/ecx/free-downloads)
-
-
-- [《使用 VMware Workstation Pro》](https://techdocs.broadcom.com/cn/zh-cn/vmware-cis/desktop-hypervisors/workstation-pro/17-0/using-vmware-workstation-pro.html)
-
-
-- [VMware 工作站专业版](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)
-
-
-- [VMware Tools](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Tools&freeDownloads=true)
-
-```bash
-1135604098@qq.com
-```
-```bash
-Password@123
-```
-
-```bash
-@echo off
-chcp 65001 > nul
-(for /f "tokens=*" %%a in ('DIR /B *.png') do @echo ^<img src="png/%%a" width="50%%"^>) > ..\png.md
-```
 
 
 主要负责下载安装 介绍NTA   VMware Tools
@@ -380,38 +383,4 @@ NAT	共享主机网络（默认）	DHCP 自动分配	虚拟机可访问互联网
 示例：桥接模式配置：
 虚拟机设置 > 网络适配器 > 桥接模式，选择主机物理网卡（如 “以太网”）。
 客户机系统中手动设置 IP 为与主机同网段（如主机 IP 192.168.1.100，虚拟机设 192.168.1.101）。
-
-
-https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Tools&freeDownloads=true
-
-
-Microsoft Windows [版本 10.0.19045.5854]
-(c) Microsoft Corporation。保留所有权利。
-
-C:\Users\Windows 10\Downloads\VMware-Tools-windows-13.0.0.0.24696409-24696475\vmtools>dir /b
-buildNumber.txt
-isoimages_manifest.txt
-isoimages_manifest.txt.sig
-version.txt
-windows.iso
-windows.iso.sha
-windows.iso.sig
-windows_avr_manifest.txt
-windows_avr_manifest.txt.sig
-
-----------------------------------------windows.iso
-
---------------------------------------------------------------------------------------------------
-
-https://github.com/DrDonk/unlocker/releases
-
-Microsoft Windows [版本 10.0.26100.4061]
-(c) Microsoft Corporation。保留所有权利。
-
-C:\Users\zzz\Downloads\unlocker427\iso>DIR /B
-darwin.iso
-darwinPre15.iso
-
-----------------------------------------darwin.iso
-
 
