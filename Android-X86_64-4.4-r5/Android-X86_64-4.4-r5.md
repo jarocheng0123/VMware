@@ -107,7 +107,7 @@ Write partition table to disk (this might destroy data) `将分区表写入磁�
 
 <img src="png/QQ截图20250607130517.png" width="50%">
 
-#### yes
+#### 输入`yes`
 Are you sure you want to write the partition table to disk? (yes or no) `您确定要将分区表写入磁盘吗？（是或否）`
 
 Warning!! This may destroy data on your disk! `警告！！这可能会破坏磁盘上的数据！`
