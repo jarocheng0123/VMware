@@ -85,7 +85,7 @@ Password@123
 
 
 ## VMware 下载
-- [VMware Tools](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Tools&freeDownloads=true)
+- 适用于Windows系统 [VMware Tools](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Tools&freeDownloads=true)
 
 
 ```bash
@@ -97,7 +97,7 @@ VMware-Tools-windows-13.0.0.0.24696409-24696475\vmtools\windows.iso
 
 
 
-- [VMware tools for linux](https://packages-prod.broadcom.com/tools/frozen/linux/linux.iso)
+- 适用于Linux系统 [VMware tools for linux](https://packages-prod.broadcom.com/tools/frozen/linux/linux.iso)
 
 
 
@@ -108,7 +108,7 @@ sudo ./VMwareTools-10.3.26-22085142/vmware-tools-distrib/vmware-install.pl
 
 
 
-- [Unlocker 4.2.7](https://github.com/DrDonk/unlocker/releases)
+- 适用于macOS系统 [Unlocker 4.2.7](https://github.com/DrDonk/unlocker/releases)
 
 
 ```bash
@@ -122,33 +122,11 @@ unlocker427\iso\darwin.iso
 - [Unlocker 4.2.7](https://github.com/DrDonk/unlocker/releases)
 
 
-## 常用软件
 
-- [Python 3.8.10](https://www.python.org/downloads/release/python-3810/)
-- [Python 3.9.13](https://www.python.org/downloads/release/python-3913/)
-- [Python 3.10.11](https://www.python.org/downloads/release/python-31011/)
-- [Python 3.11.9 ](https://www.python.org/downloads/release/python-3119/)
-- [Python 3.12.10](https://www.python.org/downloads/release/python-31210/)
-- [Python 3.13.5](https://www.python.org/downloads/release/python-3135/)
-
-
-HiBitUninstaller
-PA_Green
-HEU_KMS_Activator_v50.0.0.exe
-dControl
-WeChatSetup.exe
-DiskGenius
-idman642build27.exe
-
-- [360 Zip](https://www.360totalsecurity.com/zh-cn/360zip/)
-- [Google Chrome](https://www.google.com/chrome/)
-- [VS Code](https://code.visualstudio.com/)
-- [PyCharm](https://www.jetbrains.com/zh-cn/pycharm/download/?section=windows)
-- [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 
 ## 镜像下载
-
+**Android 官方系统仅面向手机/平板等移动设备，在VMware 安装 Android，实际依赖 Android - x86 项目**
  - [android-x86 Files](https://sourceforge.net/projects/android-x86/files/)
 
  - [MSDN, 我告诉你 - 做一个安静的工具站](https://msdn.itellyou.cn/)
@@ -185,20 +163,41 @@ idman642build27.exe
 
 
 
+## 常用软件
 
+- [Python 3.8.10](https://www.python.org/downloads/release/python-3810/)
+- [Python 3.9.13](https://www.python.org/downloads/release/python-3913/)
+- [Python 3.10.11](https://www.python.org/downloads/release/python-31011/)
+- [Python 3.11.9 ](https://www.python.org/downloads/release/python-3119/)
+- [Python 3.12.10](https://www.python.org/downloads/release/python-31210/)
+- [Python 3.13.5](https://www.python.org/downloads/release/python-3135/)
 
 
+- [HiBitUninstaller](https://hibitsoft.ir/Uninstaller.html)
+- [分区助手](https://www.disktool.cn/download.html)
+- [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases)
 
+- [微信](https://weixin.qq.com/)
+- [DiskGenius](https://www.diskgenius.cn/download.php)
+- [IDM](https://www.internetdownloadmanager.com/?v=642b41)
 
 
 
+- [360 Zip](https://www.360totalsecurity.com/zh-cn/360zip/)
+- [Google Chrome](https://www.google.com/chrome/)
+- [VS Code](https://code.visualstudio.com/)
+- [PyCharm](https://www.jetbrains.com/zh-cn/pycharm/download/?section=windows)
+- [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 
+- [Defender Control v2.1](https://www.sordum.org/9480/defender-control-v2-1/)
 
 
 
 
+- [广东省省直单位WPS2019 11.8.2.12094专业版](https://xtbg.gdzwfw.gov.cn/wpspkg/wpsupdate/Download/index.html)
 
+## 解读 vmware-workstation-pro-17-0.pdf
 
 
 
@@ -213,22 +212,29 @@ idman642build27.exe
 
 
 
-## 参考文章
 
 
-无法下载APP
 
-破解macos限制
 
-虚拟化引擎，虚拟化Intel VT-x/EPT或AMD-V/RVI(V)
 
+### 处理器
 
-unlocker会帮你下载一个最新版的darwin.iso
-VMware Tools ===== darwin.iso 
+##### 1. 虚拟化 Intel VT-x/EPT或AMD-V/RVI(V)  
+- **核心特性**：CPU提供的硬件级虚拟化支持，允许在物理处理器上创建多个独立虚拟机，实现系统隔离与并行运行。  
+- **工作原理**：通过扩展指令集（如Intel VMX、AMD Pacifica）实现虚拟机监控器（VMM）对硬件资源的直接管理，减少软件模拟开销，提升虚拟机性能。  
+- **适用场景**：需在单台物理机上运行多系统（如开发测试跨平台应用），或对虚拟机性能有较高要求（如运行大型软件、服务器虚拟化）。  
 
 
+##### 2. 虚拟化 CPU 性能计数器(U)
+- **核心特性**：为虚拟机提供独立的CPU性能监控能力，可统计指令周期、缓存命中率等指标。  
+- **工作原理**：物理CPU将性能计数器资源映射至各虚拟机，允许虚拟机操作系统或应用直接获取专属性能数据，用于调试与优化。  
+- **适用场景**：分析虚拟机内应用的性能瓶颈（如CPU占用过高、运算效率低），或监控虚拟化环境的资源利用率。  
 
 
+##### 3. 虚拟化 IOMMU(IO内存管理单元)(I)
+- **核心特性**：支持硬件设备直接分配给虚拟机（设备透传），实现虚拟机对PCIe设备的独立访问。  
+- **工作原理**：通过IOMMU芯片管理设备与内存的通信，绕过主机系统中转，降低I/O延迟并增强隔离性（如虚拟机独占显卡、网卡）。  
+- **适用场景**：虚拟机需高性能硬件支持（如游戏显卡、专业声卡），或需要硬件级数据隔离（如加密设备透传，防止主机访问虚拟机数据）。
 
 
 
@@ -236,151 +242,68 @@ VMware Tools ===== darwin.iso
 
 
 
-图片1 选择语言为中文，点击“磁盘工具”；
-图片2 左侧栏选择VMware开头的那项，点击上方的“抹掉”；
-图片3 名称自己选，下面两个默认；
-图片4
 
 
 
+### 网络适配器  
 
-打开macOS虚拟机等待进度条结束
+| 网络类型       | 交换机名称 |
+|----------------|------------|
+| 桥接模式       | VMnet0     |
+| NAT模式        | VMnet8     |
+| 仅主机模式     | VMnet1     |
 
-点击“磁盘工具”，选择第一个磁盘，点击上方“抹掉”，设置名称，格式方案默认。
-点击安装macOS系统，等待系统安装完成
-关机，添加硬件CD/DVD，选择ISO镜像文件darwin.iso 
-开机，安装VMware Tools
+##### 1. 桥接模式(B):直接连接物理网络  
+- **核心特性**：通过主机物理网络适配器将虚拟机直接连接到外部网络，虚拟机拥有独立IP地址，与主机在网络中视为不同设备。  
+- **工作原理**：虚拟机与主机共享同一网络环境，相当于网络中的独立节点，可直接访问外部网络及主机，外部网络也可主动访问虚拟机。  
+- **适用场景**：需虚拟机在局域网中拥有独立标识（如搭建服务器、与其他物理设备通信）。  
 
 
+##### 2. NAT模式(N):用于共享主机的IP地址
+- **核心特性**：虚拟机与主机共享一个网络标识，通过主机IP访问外部网络，外部网络无法主动访问虚拟机。  
+- **工作原理**：  
+  - 主机创建专用虚拟网络（默认通过VMnet8），虚拟机通过DHCP获取内网IP；  
+  - 主机充当NAT网关，虚拟机的网络请求由主机转发，外部网络仅可见主机IP。  
+- **适用场景**：虚拟机需访问外网但无需被外部访问（如日常开发、测试环境）。  
 
-安装VMware Tools
 
+##### 3. 仅主机模式(H):与主机共享的专用网络
+- **核心特性**：创建完全隔离于外部网络的专用虚拟网络，仅主机与虚拟机可通信。  
+- **工作原理**：通过VMnet1虚拟适配器建立内部网络，虚拟机与主机形成独立局域网，外部网络无法介入。  
+- **适用场景**：需构建封闭测试环境（如虚拟机间通信测试、数据隔离场景）。  
 
 
 
+VMware 开启 3D 图形加速的本质是将主机 GPU 资源虚拟化，赋予虚拟机接近物理机的图形处理能力
 
 
 
-常见问题：
-黑屏 / 卡进度条：减少 CPU 核心数至 2 核，关闭 3D 加速。
-VMware Tools 安装失败：手动挂载 darwin.iso，运行 ./VMwareTools-*.pl 脚本。
 
-</a>
 
+| 维度                | BIOS（虚拟机模拟）                          | UEFI（虚拟机模拟）                            |
+|---------------------|-------------------------------------------|---------------------------------------------|
+| **虚拟硬件支持**      | 仅支持传统硬件（IDE磁盘、Legacy USB、ISA设备） | 原生支持SATA/NVMe虚拟磁盘、USB 3.0/3.2、PCIe设备 |
+| **磁盘分区限制**      | 虚拟磁盘≤2TB（受MBR分区表限制）             | 无容量限制（支持GPT分区，可管理>2TB磁盘）      |
+| **启动流程**          | 固定顺序检测硬件（CPU→内存→磁盘→外设）       | 并行初始化硬件，可跳过冗余检测（支持快速启动）  |
+| **系统兼容性**        | 适配老旧系统（Windows XP/7、Linux CentOS 6）  | 原生支持Windows 11/10、macOS、Ubuntu 18.04+等   |
+| **安全特性**          | 无安全引导机制，易受引导区攻击               | 可启用安全引导（验证引导程序签名，防恶意篡改）  |
+| **启动速度**          | 较慢（完整硬件检测流程，启动时间10-20秒）     | 较快（并行加载+快速启动，启动时间5-10秒）       |
+| **驱动支持**          | 不支持UEFI驱动（.efi文件），依赖固件内置驱动  | 可加载虚拟硬件的UEFI驱动（如网络、存储驱动）    |
+| **分区格式支持**      | 仅支持MBR分区（≤2TB）                       | 原生支持GPT分区（支持容错备份分区表）          |
+| **图形界面支持**      | 文本模式配置界面（仅键盘操作）               | 支持图形化界面（GUI）和鼠标操作（部分虚拟机软件）|
+| **网络启动支持**      | 仅支持Legacy PXE启动（需特定配置）           | 原生支持UEFI PXE网络启动（更高效）             |
+| **TPM支持**           | 不支持（无法安装Windows 11）                 | 可模拟TPM 2.0（需虚拟机软件支持）              |
+| **最大磁盘容量识别**   | 单个虚拟磁盘最大支持2TB                     | 单个虚拟磁盘支持TB级容量（受宿主机存储限制）   |
+| **固件升级方式**      | 需通过虚拟机软件整体更新固件                 | 可模拟固件分模块升级（部分高级虚拟机支持）      |
 
 
-截至2025年6月24日，在VMware中可尝试安装的 **Android最新可用版本，主要基于Android - x86项目，当前适配到类似 Android 9.0、10 等版本的 x86 移植版** ，原因和关键说明如下：  
 
-### 一、核心限制：Android 官方无“PC 原生镜像”  
-Android 官方系统（如 Android 16）**仅面向手机/平板等移动设备** ，没有直接适配 x86 架构 PC 的安装包，也不支持 VMware 直接安装。  
 
-若想在 VMware 跑 Android，需依赖 **Android - x86 项目**（把 Android 移植到 x86 架构的社区项目 ），其提供的镜像，是 VMware 安装 Android 系统的唯一可行方案。  
 
-
-### 二、Android - x86 最新适配情况  
-目前 Android - x86 项目对高版本 Android（如 11+ ）的适配 **仍有兼容性问题**（如驱动、硬件支持不完善 ），实际可稳定安装使用的，多是 **Android 9.0、10 左右的 x86 移植版** ，例如：  
-- **Android - x86 9.0**：社区相对完善的版本，支持 VMware 安装，适配基础硬件（网卡、显卡模拟 ），可运行大部分 App。  
-- **Android - x86 10**：部分镜像可尝试，但对 VMware 环境要求更高，可能出现启动卡 Logo、硬件无法驱动等问题。  
-
-
-### 三、安装建议（以 Android - x86 9.0 为例）  
-1. **下载镜像**：  
-   去 [Android - x86 官网](https://www.android-x86.org/) 或 OSDN 平台，找 **android - x86 - 9.0 - r2.iso**（或带 `k49` 后缀的稳定版 ）。  
-
-2. **VMware 配置**：  
-   - 新建虚拟机，选 **“典型”安装**，加载下载的 `.iso` 镜像。  
-   - 客户机操作系统选 **“Linux”** → 版本选 **“其他 Linux 4.x 内核 64 位”** 。  
-   - 分配内存 ≥2GB、CPU ≥2 核、磁盘 ≥12GB 。  
-
-3. **安装关键步骤**：  
-   - 启动虚拟机后，选 **“Installation - Install Android - x86 to harddisk”** 。  
-   - 磁盘分区选 **“Create/Modify partitions”** ，手动建主分区并标记为 `Bootable` ，格式选 `ext4` 。  
-   - 安装 GRUB 引导、设置系统可读写，重启后若卡 Logo，需进 Debug 模式添加 `nomodeset` 参数（修复显卡兼容 ）。  
-
-
-### 四、更高版本尝试（风险提示）  
-若想测试 Android 11+ 版本，可搜 **“Android - x86 11/12 镜像”** ，但需注意：  
-- 可能因 VMware 模拟环境、驱动适配问题，出现无法启动、硬件（如网络、声卡 ）无法使用等情况。  
-- 更适合技术调试，不建议日常使用。  
-
-
-总结：**VMware 安装 Android，实际依赖 Android - x86 项目，当前稳定可用的“最新版本”是 Android 9.0/10 左右的移植版** ；若追求官方高版本（如 Android 16 ），需等 Android - x86 社区进一步适配，或改用 Android 官方模拟器（Android Studio 自带，但非 VMware 环境 ）。
-
-
-
-
-
-
-
-
-
-主要负责下载安装 介绍NTA   VMware Tools
-
-解决读取本地文件夹的问题，不需要请求GitHub通过路径解决图片加载问题
-
-
-
-仅做系统安装和更新，不进行任何优化和安装，在系统里面提供VPN 微信 QQ 等软件安装包，确保离线，网络限制/无需在下载安装
-
-
-下载内容
-
-
-macOSulok
-macos.ios
-关闭安全中心。。。
-激活版本
-https://www.sordum.org/
-
-
-
-# 下载
-
-发行版文件
-
-unlock
-Tools
-
-
-UEFI 引导文件制作 优PE
-linux VM Tools
-macOS VM Tools
-macOS unlock   release-python-embedded.zip
-
-备注非特定功能，不要修改任何参数，例如USB会导致mac无法连接键盘鼠标
-处理器，4*4 保证处理器数量和内核数量都为偶数，且总数不超过自身上班处理器数量
-共享文件夹
-vm tools 更新策略
-虚拟化引擎，虚拟化Intel VT-x/EPT或AMD-V/RVI(V) 有什么意义
-网络配置 NTA 网桥
-
-
-显示器3D加速
-VMware  Tools 自动更新
-高级，固件类型 UEFI
-引导类型
-
-客户机隔离，启用拖放，启用复制粘贴
-
-镜像下载链接 Linux Windows mac 安卓
-
-常见故障排除
-问题	可能原因	解决方案
-虚拟机无法联网	NAT 服务未启动	重启 VMware 服务：net start VMware NAT Service
-鼠标键盘无响应	USB 兼容性问题	在.vmx添加：usb.generic.allowHID = "TRUE"
-虚拟机黑屏	显卡驱动冲突	禁用 3D 加速或更新 VMware Tools 至最新版
-磁盘空间不足	虚拟磁盘膨胀	使用vmware-vdiskmanager -k "磁盘.vmdk"进行磁盘压缩
-
-处理器	2-4 核（偶数）	总数不超过物理 CPU 核心数，如 8 核主机可设 4×2
-内存	2GB 起（根据系统调整）	macOS 至少 4GB，Linux 桌面版 2GB，服务器版 1GB
-硬盘	20GB+（推荐 SSD）	选择 “将虚拟磁盘存储为单个文件” 提升性能
-显卡	启用 3D 加速	勾选 “加速 3D 图形”，显存设为 512MB+（用于图形设计）
-
-NAT	共享主机网络（默认）	DHCP 自动分配	虚拟机可访问互联网，主机可访问虚拟机
-桥接	模拟物理网卡	与主机同网段（需手动配置）	虚拟机与局域网设备直接通信
-仅主机	隔离测试环境	仅主机可访问虚拟机	禁止虚拟机访问外网
-
-示例：桥接模式配置：
-虚拟机设置 > 网络适配器 > 桥接模式，选择主机物理网卡（如 “以太网”）。
-客户机系统中手动设置 IP 为与主机同网段（如主机 IP 192.168.1.100，虚拟机设 192.168.1.101）。
-
+## 配置 VMware
+网络 NAT
+VMtools 自动更新
+USB 去除（macos 除外）
+DVD 去除
+BIOS 模式
+3D 图形加速
