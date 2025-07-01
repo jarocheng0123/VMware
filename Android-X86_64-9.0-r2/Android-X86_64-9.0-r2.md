@@ -9,6 +9,7 @@
 - [Windows 11 专业工作站版](../Windows%2011%20专业工作站版/Windows%2011%20专业工作站版.md)
 - [Windows 物理机转 VMware 虚拟机](../Windows%20物理机转%20VMware%20虚拟机/Windows%20物理机转%20VMware%20虚拟机.md)
 
+
 # 在 VMware 安装 Android-X86_64-9.0-r2
 
 #### 自定义
@@ -95,6 +96,7 @@ Size (in MB): 53686.40`大小（以兆字节为单位）：53686.40`
 Toggle bootable flag of the current partition`切换当前分区的可引导标记状态`
 
 <img src="png/QQ截图20250607130449.png" width="50%">
+
 <img src="png/QQ截图20250624134203.png" width="50%">
 
 #### Write`写入`
@@ -184,7 +186,6 @@ mount -o remount,rw /mnt
 
 <img src="png/QQ截图20250607144642.png" width="50%">
 
-
 ####  修改 `/mnt/grub/menu.lst`
 
 ```bash
@@ -210,7 +211,9 @@ nomodeset
 
 <img src="png/QQ截图20250607151542.png" width="50%">
 
-#  Android-x86 9.0-r2
+
+# 启动 Android-x86 9.0-r2
+
 <img src="png/QQ截图20250607151606.png" width="50%">
 
 <img src="png/QQ截图20250607151617.png" width="50%">
