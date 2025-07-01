@@ -10,8 +10,6 @@
 - [Windows 11 专业工作站版](../Windows%2011%20专业工作站版/Windows%2011%20专业工作站版.md)
 - [Windows 物理机转 VMware 虚拟机](../Windows%20物理机转%20VMware%20虚拟机/Windows%20物理机转%20VMware%20虚拟机.md)
 
-.png" width=
-50
 
 
 ## 在 VMware 安装 macOS Sequoia 15.5(24F74)
