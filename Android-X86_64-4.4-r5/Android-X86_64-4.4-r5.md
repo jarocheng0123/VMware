@@ -188,9 +188,8 @@ Rebooting...`正在重启……`
 <img src="png/QQ截图20250607133803.png" width="50%">
 
 
-## 启动 Android-X86
+## 启动 Android-X86 4.4-r5
 
-#### Android-X86 4.4-r5
 <img src="png/QQ截图20250607135315.png" width="50%">
 
 <img src="png/QQ截图20250607135451.png" width="50%">
