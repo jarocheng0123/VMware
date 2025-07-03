@@ -129,6 +129,11 @@ unlocker427\iso\darwin.iso
 **Android 官方系统仅面向手机/平板等移动设备，在VMware 安装 Android，实际依赖 Android - x86 项目**
  - [android-x86 Files](https://sourceforge.net/projects/android-x86/files/)
 
+ - [BlissOS-x86 Files](https://sourceforge.net/projects/blissos-x86/files/Official/BlissOS16/Gapps/Generic/) 
+ - [【Android系统刷机】全网首发在VMware虚拟机上Android 13虚拟机安装教程](https://www.bilibili.com/video/BV1DD421g7U5/?spm_id_from=333.337.search-card.all.click&vd_source=38f300e1939a280229700474d78d90de)
+
+
+
  - [MSDN, 我告诉你 - 做一个安静的工具站](https://msdn.itellyou.cn/)
  - [MSDN官方原版Windows镜像下载 - MSDN镜像库](https://msdn.lopins.cn/windows.html)
 
