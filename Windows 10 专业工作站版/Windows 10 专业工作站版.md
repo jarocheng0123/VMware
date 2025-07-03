@@ -1,5 +1,4 @@
-
-## 目录
+# 目录
 
 - [自述文件](../README.md)
 - [Android-X86_64-4.4-r5](../Android-X86_64-4.4-r5/Android-X86_64-4.4-r5.md)
@@ -11,281 +10,146 @@
 - [Windows 物理机转 VMware 虚拟机](../Windows%20物理机转%20VMware%20虚拟机/Windows%20物理机转%20VMware%20虚拟机.md)
 
 
-
-
-
-## 在VMware 中安装 Windows 10 专业工作站版
+# 在 VMware 安装 Windows 10 专业工作站版
 
 #### 自定义
-
-
-
 <img src="png/QQ截图20250616134727.png" width="50%">
 
-
-####  下一步
-
-
+#### 下一步
 <img src="png/QQ截图20250616134749.png" width="50%">
 
-
-####  稍后安装操作系统
-
-
+#### 稍后安装操作系统(S)
 <img src="png/QQ截图20250616134800.png" width="50%">
 
-
-####  Microsoft Windows
-
-
+#### Microsoft Windows(W) `Windows 10`
 <img src="png/QQ截图20250616134810.png" width="50%">
 
-
-####  虚拟机保存位置
-
-
+#### 自定义虚拟机名称位置
 <img src="png/QQ截图20250616135014.png" width="50%">
 
-
-####  BIOS
-
-
+#### BIOS(O)
 <img src="png/QQ截图20250616135019.png" width="50%">
 
-
-####  根据系统性能自定义
-
-
+#### 根据电脑配置选择
 <img src="png/QQ截图20250616135026.png" width="50%">
 
-
-####  根据系统性能自定义
-
-
+#### 根据电脑配置选择
 <img src="png/QQ截图20250616135034.png" width="50%">
 
-
-####  使用网络地址转换(NAT)(E)
-
-
+#### 使用网络地址转换(NAT)(E)
 <img src="png/QQ截图20250616135039.png" width="50%">
 
-
-####  LSI Logic SAS(S)
-
-
+#### LSI Logic SAS(S)
 <img src="png/QQ截图20250616135044.png" width="50%">
 
-
-####  NVMe(V)
-
-
+#### NVMe(V)
 <img src="png/QQ截图20250616135049.png" width="50%">
 
-
-####  创建新虚拟磁盘
-
-
+#### 创建新虚拟磁盘(V)
 <img src="png/QQ截图20250616135102.png" width="50%">
 
-
-####  根据系统性能自定义
-
-
+#### 根据镜像系统大小选择
 <img src="png/QQ截图20250616135114.png" width="50%">
 
-
-####  下一步
-
-
+#### 下一步
 <img src="png/QQ截图20250616135120.png" width="50%">
 
+#### 完成
+<img src="png/QQ截图20250703103222.png" width="50%">
 
-####  选择镜像文件`zh-cn_windows_10_business_editions_version_22h2_updated_may_2025_x64_dvd_383360ec.iso`
-
+#### 使用ISO映像文件(M)
+`zh-cn_windows_10_business_editions_version_22h2_updated_may_2025_x64_dvd_383360ec.iso`
 
 <img src="png/QQ截图20250616135154.png" width="50%">
 
 
-####  开机 logo
+## 开机
 
-
+#### 开机 logo
 <img src="png/QQ截图20250616135214.png" width="50%">
 
-
-####  下一步
-
-
+#### 下一页(N)
 <img src="png/QQ截图20250616135229.png" width="50%">
 
-
-####  现在安装
-
-
+#### 现在安装(I)
 <img src="png/QQ截图20250616135239.png" width="50%">
 
-
-####  安装程序正在启动
-
-
+#### 安装程序正在启动
 <img src="png/QQ截图20250616135247.png" width="50%">
 
-
-####  Windows 10 专业工作站版
-
-
+#### Windows 10 专业工作站版
 <img src="png/QQ截图20250616135255.png" width="50%">
 
-
-####  自定义：仅安装 Windows （高级）(C)
-
-
+#### 自定义：仅安装 Windows （高级）(C)
 <img src="png/QQ截图20250616135336.png" width="50%">
 
-
-####  下一页
-
-
+#### 下一页
 <img src="png/QQ截图20250616135344.png" width="50%">
 
-
-####  正在安装 Windows
-
-
+#### Windows 安装程序
 <img src="png/QQ截图20250616135353.png" width="50%">
 
-
-####  立即重启
-
-
+#### 立即重启
 <img src="png/QQ截图20250616135537.png" width="50%">
 
-
-####  开机 logo
-
-
+#### 开机 logo
 <img src="png/QQ截图20250616135611.png" width="50%">
 
-
-####  请稍等...
-
-
+#### 海内存知己，天涯若比邻。请稍等...
 <img src="png/QQ截图20250616135737.png" width="50%">
 
-
-####  让我们先从区域设置开始。这样对吧？`中国`
-
-
+#### 让我们先从区域设置开始。这样对吧？`中国`
 <img src="png/QQ截图20250616135812.png" width="50%">
 
-
-####  针对个人使用进行设置
-
-
+#### 针对个人使用进行设置
 <img src="png/QQ截图20250616135916.png" width="50%">
 
-
-####  脱机账户
-
-
+#### 脱机账户
 <img src="png/QQ截图20250616135932.png" width="50%">
 
-
-####  有限的体验
-
-
+#### 有限的体验
 <img src="png/QQ截图20250616135945.png" width="50%">
 
-
-####  自定义用户名
-
-
+#### 用户名`英文字母 + 数字`
 <img src="png/QQ截图20250616140018.png" width="50%">
 
-
-####  以后再说
-
-
+#### 以后再说
 <img src="png/QQ截图20250616140043.png" width="50%">
 
-
-####  为你的设备选择隐私设置`全部关闭`
-
-
+#### 为你的设备选择隐私设置`全部关闭`
 <img src="png/QQ截图20250616140054.png" width="50%">
 
-
-####  跳过
-
-
+#### 跳过
 <img src="png/QQ截图20250616140110.png" width="50%">
 
-
-####  等待
-
-
+#### 嗨，别来无恙啊！
 <img src="png/QQ截图20250616140124.png" width="50%">
 
+## 安装VMware Tools
 
-####  在线安装 VMware Tools
-
-
+#### 在线安装
 <img src="png/QQ截图20250616140433.png" width="50%">
 
-
-####  使用ISO镜像安装VMware Tools
-
-
+#### 使用ISO镜像文件安装
 <img src="png/QQ截图20250616163553.png" width="50%">
 
-
-
-
-
-####  双击`DVD 驱动器`
-
-
+#### 双击`DVD 驱动器(D:) VMware Tools`
 <img src="png/QQ截图20250616163659.png" width="50%">
 
-
-####  正在准备“VMware Tools”进行安装...
-
-
+#### 正在准备“VMware Tools”进行安装...
 <img src="png/QQ截图20250616163719.png" width="50%">
 
-
-####  下一步
-
-
+#### 下一步
 <img src="png/QQ截图20250616163729.png" width="50%">
 
-
-####  完整安装(C)
-
-
+#### 完整安装(C)
 <img src="png/QQ截图20250616163740.png" width="50%">
 
-
-####  完成
-
-
+#### 完成
 <img src="png/QQ截图20250616163825.png" width="50%">
 
-
-####  是
-
-
+#### 是
 <img src="png/QQ截图20250616163839.png" width="50%">
 
-
-####  重启
-
-
+#### 重启
 <img src="png/QQ截图20250616163629.png" width="50%">
-
-
-
-
-
- - [MSDN, 我告诉你 - 做一个安静的工具站](https://msdn.itellyou.cn/)
- - [MSDN官方原版Windows镜像下载 - MSDN镜像库](https://msdn.lopins.cn/windows.html)
