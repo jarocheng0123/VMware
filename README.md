@@ -9,6 +9,7 @@
 - [Windows 11 专业工作站版](/Windows%2011%20专业工作站版/Windows%2011%20专业工作站版.md)
 - [Windows 物理机转 VMware 虚拟机](/Windows%20物理机转%20VMware%20虚拟机/Windows%20物理机转%20VMware%20虚拟机.md)
 
+
 # 在Windows 安装 VMware Workstation Pro 
 
 ## 下载 VMware Workstation Pro
@@ -16,6 +17,9 @@
   
 ```bash
 1135604098@qq.com
+```
+
+```bash
 Password@123
 ```
 
@@ -121,6 +125,8 @@ unlocker427\iso\darwin.iso
 - [如何制作适用于VMware Fusion安装的macOS Catalina CDR系统镜像？](https://heipg.cn/tutorial/macos-catalina-cdr.html)
 - [在 Windows 下使用 VMware Workstation 安装 macOS 的详细教程](https://heipg.cn/tutorial/install-macos-by-using-vmware-in-windows.html)
 - [macOS虚拟机安装全过程（VMware）](https://blog.csdn.net/raspi_fans/article/details/122908420)
+
+**黑苹果**
 - [黑苹果社区 - 专注于黑苹果安装系统教程驱动软件](https://osx.cx/)
 - [黑苹果屋 - 黑苹果屋—Hackintosh-黑苹果单双系统安装全套完整教程资源](https://imacos.top/category/hpgw/xtgx/iso/)
 - [黑苹果星球-分享Mac的精彩世界](https://heipg.cn/)
@@ -228,7 +234,7 @@ unlocker427\iso\darwin.iso
 - **适用场景**：需构建封闭测试环境（如虚拟机间通信测试、数据隔离场景）。  
 
 #### BIOS与UEFI
-| 维度                | BIOS（虚拟机模拟）                          | UEFI（虚拟机模拟）                            |
+| 维度                | BIOS                                     | UEFI                                   |
 |---------------------|-------------------------------------------|---------------------------------------------|
 | **虚拟硬件支持**      | 仅支持传统硬件（IDE磁盘、Legacy USB、ISA设备） | 原生支持SATA/NVMe虚拟磁盘、USB 3.0/3.2、PCIe设备 |
 | **磁盘分区限制**      | 虚拟磁盘≤2TB（受MBR分区表限制）             | 无容量限制（支持GPT分区，可管理>2TB磁盘）      |
