@@ -5,6 +5,7 @@
 - [Android-X86_64-9.0-r2](/Android-X86_64-9.0-r2/Android-X86_64-9.0-r2.md)
 - [macOS Sequoia 15.5(24F74)](/macOS%20Sequoia%2015.5(24F74)/macOS%20Sequoia%2015.5(24F74).md)
 - [Ubuntu Desktop 24.04.2 LTS](/Ubuntu%20Desktop%2024.04.2%20LTS/Ubuntu%20Desktop%2024.04.2%20LTS.md)
+- [Kali Linux 2026.1](/Kali%20Linux%202026.1/Kali%20Linux%202026.1.md)
 - [Windows 10 专业工作站版](/Windows%2010%20专业工作站版/Windows%2010%20专业工作站版.md)
 - [Windows 11 专业工作站版](/Windows%2011%20专业工作站版/Windows%2011%20专业工作站版.md)
 - [Windows 物理机转 VMware 虚拟机](/Windows%20物理机转%20VMware%20虚拟机/Windows%20物理机转%20VMware%20虚拟机.md)
@@ -108,6 +109,9 @@ unlocker427\iso\darwin.iso
 
 **Ubuntu**
 - [下载 Ubuntu 桌面](https://ubuntu.com/download/desktop)
+
+**Kali Linux**
+- [Kali Linux 安装器](https://www.kali.org/get-kali/#kali-installer-images)
 
 **macOS**
 - [macOS Monterey 12.6(21G115)正式版 虚拟机ISO格式](https://heipg.cn/macos/macos-monterey-12-6-21g115-iso.html)
