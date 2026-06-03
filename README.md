@@ -21,7 +21,7 @@
 ```
 
 ```bash
-Password@123
+Password@12345
 ```
 
 - [下载 VMware 工作站专业版](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)
